@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Claudia Rella
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Oxford
+  url: ""
+- name: St John's College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
