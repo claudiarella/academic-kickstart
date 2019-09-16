@@ -57,7 +57,7 @@ social:
   link: https://www.researchgate.net/profile/Claudia_Rella
   
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fa
   link: https://www.linkedin.com/in/claudia-rella-73b455180/
   
 # - icon: github
