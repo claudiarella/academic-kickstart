@@ -44,9 +44,9 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
   
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:claudia.rella@gmail.com"
+# - icon: envelope
+#  icon_pack: fas
+#  link: "mailto:claudia.rella@gmail.com"
   
 - icon: orcid
   icon_pack: ai
@@ -56,9 +56,13 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Claudia_Rella
   
-- icon: github
-  icon_pack: fab
-  link: https://github.com/claudiarella
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/claudia-rella-73b455180/
+  
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/claudiarella
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
