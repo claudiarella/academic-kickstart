@@ -78,6 +78,6 @@ user_groups:
 ---
 
 I’m a graduate student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP. In 2017 I contributed to the positron-on-target experiment PADME at INFN-LNF, Italy.
-See the [experiment website][1]. In 2019 I started working on on the research topic of Motivic Feynman Amplitudes. 
+See the [experiment website][1]. In 2019 I started working on the research topic of Motivic Feynman Amplitudes. 
 
 [1]: http://w3.lnf.infn.it/research/particle-physics/padme/?lang=en
