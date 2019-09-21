@@ -73,13 +73,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-# - Researchers
-# - Visitors
+ - Researchers
+ - Visitors
 ---
 
 I’m a graduate student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP, Switzerland. 
 
-In 2017 I contributed to the positron-on-target experiment PADME at the National Institute of Nuclear Physics, National Laboratories of Frascati, Italy. 
+In 2017-18 I contributed to the experimental project PADME at the National Institute of Nuclear Physics, National Laboratories of Frascati, Italy. 
 
 In 2019 I started working on Motivic Feynman Amplitudes in the research group of Prof. Francis Brown at Mathematical Institute, University of Oxford, UK. 
 
