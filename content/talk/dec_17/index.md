@@ -1,6 +1,6 @@
 +++
 title = "Monte Carlo Simulation of SAC"
-date = 2017-12-01  # Schedule page publish date.
+date = 2017-12-01T14:50:00+02:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
