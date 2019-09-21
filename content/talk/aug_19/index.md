@@ -1,6 +1,6 @@
 +++
 title = "Motivic Amplitudes"
-date = 2019-09-20T18:45:53+02:00  # Schedule page publish date.
+date = 2019-08-13T17:15:00+02:0  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -21,7 +21,7 @@ event = "Conference on Representation Theory and Integrable Systems"
 event_url = "http://rtis2019.math.iupui.edu"
 
 # Location of event.
-location = "HG, G 5, ETH, Zurich, Switzerland"
+location = "Building HG, Room G5, ETH, Zurich, Switzerland"
 
 # Is this a featured talk? (true/false)
 featured = false
