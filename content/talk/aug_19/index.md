@@ -2,7 +2,6 @@
 title = "Motivic Amplitudes"
 date = 2019-09-20T18:45:53+02:00  # Schedule page publish date.
 draft = false
-markup: mmark
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
