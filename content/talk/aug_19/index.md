@@ -10,7 +10,7 @@ time_end = 2019-08-13T17:30:00+02:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Claudia Rella]
+authors = ["Claudia Rella"]
 
 # Abstract and optional shortened version.
 abstract = "Recently developed approaches to scattering amplitudes in quantum field theory highlight underlying geometrical structures which allow to interpret Feynman amplitudes as periods of motives. Techniques in algebraic geometry are applied to the motivic version of Feynman integrals to investigate their geometric properties and to give information about their numerical value. I will present the main results of the application of motivic Galois theory in the Tannakian formalism to primitive log-divergent Feynman diagrams in 𝜙4 theory."
