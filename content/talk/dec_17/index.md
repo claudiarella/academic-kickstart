@@ -10,7 +10,7 @@ time_end = 2017-12-01T15:10:00+02:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Claudia Rella]
+authors = ["Claudia Rella"]
 
 # Abstract and optional shortened version.
 abstract = "A Monte Carlo simulation of a prototype of PADME's Small-Angle Calorimeter has been implemented with the Geant4 software. Particular attention has been given to the energy and time resolutions of the distribution of Cherenkov photons produced in a PbF2 crystal and converted into photo-electrons through a PMT photocathode and their dependence on the crystal geometry. I will present the resulting characterization of a single PbF2 crystal’s performance."
