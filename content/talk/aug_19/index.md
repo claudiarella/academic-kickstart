@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-08-13T17:15
-time_end = 2019-08-13T17:30
+time_start = 2019-08-13T17:15:00+02:00
+time_end = 2019-08-13T17:30:00+02:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
