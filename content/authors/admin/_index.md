@@ -79,11 +79,10 @@ user_groups:
 
 I’m a graduate student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP, Switzerland. 
 
-In 2017 I contributed to the positron-on-target experiment PADME at the National Institute of Nuclear Physics, National Laboratories of Frascati, Italy. See the [experiment website][1]. 
+In 2017 I contributed to the positron-on-target experiment PADME at the National Institute of Nuclear Physics, National Laboratories of Frascati, Italy. 
 
 In 2019 I started working on Motivic Feynman Amplitudes in the research group of Prof. Francis Brown at Mathematical Institute, University of Oxford, UK. 
 
-[Here][2] is my extended CV.
+[Here][1] is my extended CV.
 
-[1]: http://w3.lnf.infn.it/research/particle-physics/padme/?lang=en
-[2]: files/cv.pdf
+[1]: files/cv.pdf
