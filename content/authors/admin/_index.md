@@ -22,12 +22,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
+research interests:
 - Algebraic Geometry
 - Mathematical Physics 
 - Theoretical Particle Physics
 
-education:
+background:
   courses:
   - course: Master Class in Mathematical Physics
     institution: University of Geneva
