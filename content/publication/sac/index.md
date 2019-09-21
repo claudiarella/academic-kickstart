@@ -2,7 +2,6 @@
 title = "Characterization and performance of PADME’s Cherenkov-based small-angle calorimeter"
 date = 2019-02-06T22:11:45Z
 draft = false
-markup: mmark
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["A. Frankenthal", "J. Alexander", "B. Buonomo", "E. Capitolo", "C. Capoccia", "C. Cesarotti", "R. De Sangro", "C. Di Giulio", "F. Ferrarotto", "L. Foggetta", "G. Georgiev", "P. Gianotti", "M. Hunyadi", "V. Kozhuharov", "A. Krasznahorkay", "E. Leonardi", "G. Organtini", "G. Piperno", "M. Raggi", "C. Rella", "A. Saputi", "I. Sarra", "E. Spiriti", "C. Taruggi", "P. Valente"]
