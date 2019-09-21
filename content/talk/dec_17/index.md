@@ -1,6 +1,6 @@
 +++
 title = "Monte Carlo Simulation of SAC"
-date = 2019-09-20T18:47:46+02:00  # Schedule page publish date.
+date = 2017-12-01T14:50:00+02:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -21,7 +21,7 @@ event = "PADME Weekly Meeting"
 event_url = "https://agenda.infn.it/event/14661/"
 
 # Location of event.
-location = "Room B1, Building 36, INFN-LNF, Frascati, Italy"
+location = "Building 36, Room B1, INFN-LNF, Frascati, Italy"
 
 # Is this a featured talk? (true/false)
 featured = false
