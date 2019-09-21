@@ -3,7 +3,7 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-{{< figure library="true" src="sky.jpg" >}}
+{{< figure library="true" src="sky.jpg" title="Sky" lightbox="true"  >}}
 
 [[main]]
   name = "Home"
