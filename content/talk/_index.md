@@ -1,5 +1,7 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks
+
+markup: mmark
 
 # View.
 #   1 = List
