@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2017-12-31"
   description = """
-  Participation in the experimental project PADME (Positron Annihilation into Dark Matter Experiment) under supervision of Dr. Mauro Raggi. Specific contributions include:
+  Participation in the experimental project PADME (Positron Annihilation into Dark Matter Experiment) under supervision of Prof. Mauro Raggi. Specific contributions include:
   
 * Geant4 Monte Carlo simulation of a prototype of the Small-Angle Calorimeter
 * Characterization of a single $PbF_2$ crystal’s performance, with particular attention to
