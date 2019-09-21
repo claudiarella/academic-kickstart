@@ -16,6 +16,11 @@
 #   weight = 60
 
 [[main]]
+  name = "Internships"
+  url = "#experience"
+  weight = 20
+
+[[main]]
   name = "Talks"
   url = "#talks"
   weight = 30
