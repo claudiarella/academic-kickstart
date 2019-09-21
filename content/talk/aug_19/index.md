@@ -1,6 +1,6 @@
 +++
 title = "Motivic Amplitudes"
-date = 2019-08-13T17:15:00+02:0  # Schedule page publish date.
+date = 2019-08-13T17:15:00+02:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
