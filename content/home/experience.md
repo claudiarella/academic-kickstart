@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-  Participation in a machine learning project commissioned by the company Open Fiber and finalized to the development of a predictive model for planned preventative maintenance of large infrastructures equipped with alarm nets, fitting in particular the automation processes of the Open Fiber network. Specific contributions include:
+  Participation in a Machine Learning project commissioned by the company Open Fiber and finalized to developing a predictive model for planned preventative maintenance of large infrastructures equipped with alarm nets. The model fit the specific automation processes of the Open Fiber network. Specific contributions include:
   
 * _Work in progress_"""
 
