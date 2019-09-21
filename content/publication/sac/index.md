@@ -1,6 +1,6 @@
 +++
 title = "Characterization and performance of PADME’s Cherenkov-based small-angle calorimeter"
-date = 2019-02-06T22:11:45Z
+date = 2019-03-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
