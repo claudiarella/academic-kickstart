@@ -4,6 +4,7 @@ widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
+markup: mmark
 
 title = "Internships"
 subtitle = ""
@@ -22,7 +23,7 @@ date_format = "Jan 2006"
   company = "Pangea Formazione"
   company_url = "https://www.pangeaformazione.it"
   location = "Rome, Italy"
-  date_start = "2019-07"
+  date_start = "Jul 2019"
   date_end = ""
   description = """
   Participation in a machine learning project commissioned by the Italian company Open Fiber and finalized to the development of a predictive model for planned preventative maintenance of large infrastructures equipped with alarm nets, fitting in particular the automation processes of the Open Fiber network. Specific contributions include:
@@ -35,8 +36,8 @@ date_format = "Jan 2006"
   company = "INFN-LNF"
   company_url = "http://padme.lnf.infn.it"
   location = "Frascati, Italy"
-  date_start = "2017-09"
-  date_end = "2017-12"
+  date_start = "Sep 2017"
+  date_end = "Dec 2017"
   description = """
   Participation in the experimental project PADME (Positron Annihilation into Dark Matter Experiment) under supervision of Dr. Mauro Raggi. Specific contributions include:
   
