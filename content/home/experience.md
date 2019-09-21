@@ -27,8 +27,7 @@ date_format = "Jan 2006"
   description = """
   Participation in a machine learning project commissioned by the Italian company Open Fiber and finalized to the development of a predictive model for planned preventative maintenance of large infrastructures equipped with alarm nets, fitting in particular the automation processes of the Open Fiber network. Specific contributions include:
   
-* _Work in progress_
-  """
+* _Work in progress_"""
 
 [[experience]]
   title = "Research Intern"
