@@ -50,6 +50,10 @@ social:
 # - icon: envelope
 #  icon_pack: fas
 #  link: "mailto:claudia.rella@gmail.com"
+
+- icon: cv
+  icon_pack: fas
+  link: files/cv.pdf
   
 - icon: orcid
   icon_pack: ai
