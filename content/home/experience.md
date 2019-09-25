@@ -23,11 +23,14 @@ date_format = "Jan 2006"
   company_url = "https://www.pangeaformazione.it"
   location = "Rome, Italy"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2019-07-31"
   description = """
-  Participation in a Machine Learning project commissioned by the company Open Fiber and finalized to developing a predictive model for planned preventative maintenance of large infrastructures equipped with alarm nets. The model fits the specific automation processes of the Open Fiber network. Specific contributions include:
-  
-* _Work in progress_"""
+  Participation in a 
+Machine Learning project commissioned by the company Open Fiber and 
+finalized to developing a predictive model for planned preventative 
+maintenance of large infrastructures equipped with alarm nets, fitting the 
+specific automation processes of the Open Fiber network, using Bayesian Neural Networks in Deep Learning.
+"""
 
 [[experience]]
   title = "Research Intern"
