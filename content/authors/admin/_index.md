@@ -52,7 +52,7 @@ social:
 #  link: "mailto:claudia.rella@gmail.com"
 
 - icon: cv
-  icon_pack: fas
+  icon_pack: fab
   link: files/cv.pdf
   
 - icon: orcid
