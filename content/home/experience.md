@@ -26,10 +26,7 @@ date_format = "Jan 2006"
   date_end = "2019-07-31"
   description = """
   Participation in a 
-Machine Learning project commissioned by the company Open Fiber and 
-finalized to developing a predictive model for planned preventative 
-maintenance of large infrastructures equipped with alarm nets, fitting the 
-specific automation processes of the Open Fiber network, using Bayesian Neural Networks in Deep Learning.
+Machine Learning project finalised to developing a predictive model for planned preventative maintenance of large infrastructures equipped with alarm nets, fitting the specific automation processes of the network Open Fiber. Project implemented with Bayesian Neural Networks in Deep Learning.
 """
 
 [[experience]]
@@ -40,10 +37,7 @@ specific automation processes of the Open Fiber network, using Bayesian Neural N
   date_start = "2017-09-01"
   date_end = "2017-12-31"
   description = """
-  Participation in the experimental project PADME (Positron Annihilation into Dark Matter Experiment) under supervision of Prof. Mauro Raggi. Specific contributions include:
-  
-* Geant4 Monte Carlo simulation of a prototype of the Small-Angle Calorimeter
-* Characterization of a single $PbF_2$ crystal’s performance, with particular attention to
-energy and timing resolutions"""
+  Participation in the experimental project PADME (Positron Annihilation into Dark Matter Experiment) under supervision of Prof. Mauro Raggi. Implementation of a Monte Carlo simulation of a prototype of the Small-Angle Calorimeter using software Geant4. Characterisation of the performance of a single PbF2 crystal attached to a Hamamatsu R13478UV photomultiplier tube in terms of energy and timing resolutions.
+  """
 
 +++
