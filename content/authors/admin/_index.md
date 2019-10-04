@@ -83,8 +83,6 @@ user_groups:
 
 I am currently a graduate research student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP, Switzerland. 
 
-# Among my current research interests are random matrices, applications of algebraic geometry to quantum field theories and dark settor models in beyond the Standard Model theories.
-
 In 2017-18 I took part in the experimental project PADME at the National Laboratories of Frascati, part of the National Institute of Nuclear Physics, Italy. 
 
 In 2019 I started working on Motivic Feynman Amplitudes in the research group of Prof. Francis Brown at Mathematical Institute, University of Oxford, UK. 
