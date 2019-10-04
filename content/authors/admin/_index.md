@@ -81,9 +81,9 @@ user_groups:
  - Visitors
 ---
 
-I’m a graduate student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP, Switzerland. 
+I am currently a graduate research student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP, Switzerland. 
 
-In 2017-18 I participated in the experimental project PADME at the National Institute of Nuclear Physics, National Laboratories of Frascati, Italy. 
+In 2017-18 I took part in the experimental project PADME at the National Laboratories of Frascati, part of the National Institute of Nuclear Physics, Italy. 
 
 In 2019 I started working on Motivic Feynman Amplitudes in the research group of Prof. Francis Brown at Mathematical Institute, University of Oxford, UK. 
 
