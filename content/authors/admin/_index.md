@@ -23,9 +23,9 @@ organizations:
 bio: 
 
 interests:
-- Algebraic Geometry
 - Mathematical Physics 
 - Theoretical Particle Physics
+- Data Science
 
 education:
   courses:
@@ -81,7 +81,7 @@ user_groups:
  - Visitors
 ---
 
-I am currently a graduate research student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP, Switzerland. 
+I am currently a graduate research student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP, Switzerland. Among my current research interests are random matrices, applications of algebraic geometry to quantum field theories and dark settor models in beyond the Standard Model theories.
 
 In 2017-18 I took part in the experimental project PADME at the National Laboratories of Frascati, part of the National Institute of Nuclear Physics, Italy. 
 
