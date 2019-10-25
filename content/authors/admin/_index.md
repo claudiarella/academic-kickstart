@@ -33,7 +33,7 @@ education:
     institution: University of Geneva
     year: 2020
   - course: MSc in Mathematical and Theoretical Physics
-    institution: University of Oxford
+    institution: University of Oxford, St John's College
     year: 2019
   - course: BSc in Physics
     institution: University of Rome La Sapienza
@@ -81,11 +81,11 @@ user_groups:
  - Visitors
 ---
 
-I am currently a graduate research student in Mathematical Physics at the University of Geneva and an Excellence Fellow of the National Centre of Competence in Research SwissMAP, Switzerland. 
+I am a graduate student in mathematical and theoretical particle physics. I am currently pursuing the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by an NCCR SwissMAP Excellence Fellowship. 
 
-In 2017-18 I took part in the experimental project PADME at the National Laboratories of Frascati, part of the National Institute of Nuclear Physics, Italy. 
+In 2019 I worked on motivic amplitudes under the supervision of Prof. Francis Brown at Mathematical Institute, University of Oxford, UK. 
 
-In 2019 I started working on Motivic Feynman Amplitudes in the research group of Prof. Francis Brown at Mathematical Institute, University of Oxford, UK. 
+In 2017-18 I took part in the experimental project PADME at the National Laboratories of Frascati, INFN, Italy. 
 
 [Here][1] is my extended CV.
 
