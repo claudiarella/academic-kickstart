@@ -90,14 +90,14 @@ email = "claudia.rella@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2-4 Rue de Lièvre", city = "Geneva", region = "", postcode = "1211", country = "Switzerland", country_code = ""}
+address = {street = "7 Route de Drize", city = "Carouge", region = "", postcode = "1227", country = "Switzerland", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office 301 on Floor 3"
+directions = "Office 104"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
