@@ -65,7 +65,7 @@ social:
   
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/claudia-rella-73b455180/
+  link: https://www.linkedin.com/in/claudia-rella/
   
 # - icon: github
 #  icon_pack: fab
