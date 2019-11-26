@@ -6,8 +6,8 @@ markup: mmark
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-11-19T15:00
-time_end = 2019-11-19T17:00
+time_start = 2019-11-19T15:00:00+02:00
+time_end = 2019-11-19T17:00:00+02:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
