@@ -1,6 +1,6 @@
 +++
 title = "Introduction to Motivic Amplitudes"
-date = 2019-09-20T18:45:53+02:00  # Schedule page publish date.
+date = 2019-11-19T15:00+02:00  # Schedule page publish date.
 draft = false
 markup: mmark
 
