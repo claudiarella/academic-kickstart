@@ -2,7 +2,6 @@
 title = "Introduction to Motivic Amplitudes"
 date = 2019-11-19T15:00:00+02:00  # Schedule page publish date.
 draft = false
-markup: mmark
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -22,7 +21,7 @@ event = "Research Seminar Lie Groups and Moduli Spaces"
 event_url = "https://www.unige.ch/math/seminaires/lie-sem/"
 
 # Location of event.
-location = "Common Room, Villa Battelle, University of Geneva, Geneva, Switzerland"
+location = "Villa Battelle, Common Room, University of Geneva, Geneva, Switzerland"
 
 # Is this a featured talk? (true/false)
 featured = false
