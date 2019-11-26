@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = "2019-07-31"
   description = """
-  Participation in a Deep Learning project implemented using Bayesian Neural Networks and programming languages R and Python and finalised to developing a predictive model for planned preventative maintenance of large infrastructures equipped with alarm nets, fitting the specific automation processes of the network Open Fiber.
+  Contributed to Deep Learning predictive model for preventative maintenance of large infrastructures equipped with alarm nets. Project implemented using Bayesian Neural Networks and programming language R.
 """
 
 [[experience]]
@@ -36,8 +36,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2017-11-30"
   description = """
-  Participation in the experimental project PADME (Positron Annihilation into Dark Matter Experiment) under the
-supervision of Prof. Mauro Raggi. Implementation of a Monte Carlo optical simulation of a prototype of the Small-Angle Calorimeter using software Geant4 and programming language C++. Characterisation of the performance of a single PbF2 crystal attached to a Hamamatsu R13478UV photomultiplier tube in terms of energy and timing resolutions.
+ Implemented Monte Carlo optical simulation of the SAC (Small-Angle Calorimeter) using software Geant4 and programming language C++. Characterised performance of PbF2 crystal attached to Hamamatsu R13478UV photomultiplier tube. Part of the experimental project PADME (Positron Annihilation into Dark Matter Experiment).
   """
 
 +++
