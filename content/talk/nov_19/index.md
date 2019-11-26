@@ -11,7 +11,7 @@ time_end = 2019-11-19T17:00:00+02:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Claudia Rella]
+authors = ["Claudia Rella"]
 
 # Abstract and optional shortened version.
 abstract = "In this talk I will discuss how underlying algebro-geometric structures characterise Feynman amplitudes as periods of motives and how techniques in algebraic geometry are applied to the motivic version of amplitudes to give information about their numerical value. I will give particular attention to the application of motivic Galois theory to Feynman diagrams of primitive log-divergent type in $$\phi^4$$ quantum field theory."
