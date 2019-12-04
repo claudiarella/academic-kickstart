@@ -81,11 +81,7 @@ user_groups:
  - Visitors
 ---
 
-I am a graduate student in mathematical and theoretical particle physics. I am currently pursuing the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by an NCCR SwissMAP Excellence Fellowship. 
-
-In 2019 I worked on motivic amplitudes under the supervision of Prof. Francis Brown at Mathematical Institute, University of Oxford, UK. 
-
-In 2017-18 I took part in the experimental project PADME at the National Laboratories of Frascati, INFN, Italy. 
+I am a graduate student in Mathematical and Theoretical Physics, currently pursuing the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
 
 [Here][1] is my extended CV.
 
