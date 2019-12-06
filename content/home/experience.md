@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2017-11-30"
   description = """
- Implemented Monte Carlo optical simulation of the SAC (Small-Angle Calorimeter) using software Geant4 and programming language C++. Characterised performance of PbF2 crystal attached to Hamamatsu R13478UV photomultiplier tube. Part of the experimental project PADME (Positron Annihilation into Dark Matter Experiment).
+ Contributed to Monte Carlo optical simulation of the SAC (Small-Angle Calorimeter) using software Geant4 and programming language C++. Characterised performance of PbF2 crystal attached to Hamamatsu R13478UV photomultiplier tube. Part of the experimental project PADME (Positron Annihilation into Dark Matter Experiment).
   """
 
 +++
