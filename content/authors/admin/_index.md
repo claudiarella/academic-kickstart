@@ -25,7 +25,7 @@ bio:
 interests:
 - Mathematical Physics 
 - Theoretical Particle Physics
-- Theoretical Astrophysics and Cosmology
+- Astrophysics and Cosmology
 - Data Science
 
 education:
