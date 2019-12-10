@@ -17,7 +17,7 @@ abstract = "In this talk I will discuss how underlying algebro-geometric structu
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Research Seminar Lie Groups and Moduli Spaces"
+event = "Research Seminar on Lie Groups and Moduli Spaces"
 event_url = "https://www.unige.ch/math/seminaires/lie-sem/"
 
 # Location of event.
