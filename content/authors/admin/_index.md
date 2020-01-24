@@ -80,10 +80,11 @@ email: ""
 user_groups:
  - Researchers
  - Visitors
+ 
+# For Short Description:
+# [Here][1] is my extended CV.
+# [1]: files/cv.pdf
+ 
 ---
 
 I am a graduate student in Mathematical and Theoretical Physics, currently pursuing the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
-
-# [Here][1] is my extended CV.
-
-# [1]: files/cv.pdf
