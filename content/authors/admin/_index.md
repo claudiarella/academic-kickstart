@@ -52,9 +52,9 @@ social:
 #  icon_pack: fas
 #  link: "mailto:claudia.rella@gmail.com"
 
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
   
 - icon: orcid
   icon_pack: ai
@@ -84,6 +84,6 @@ user_groups:
 
 I am a graduate student in Mathematical and Theoretical Physics, currently pursuing the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
 
-[Here][1] is my extended CV.
+# [Here][1] is my extended CV.
 
-[1]: files/cv.pdf
+# [1]: files/cv.pdf
