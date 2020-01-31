@@ -1,7 +1,7 @@
 +++
 title = "Effective Field Theory"
 date = 2020-01-31T13:44:32+01:00
-draft = true
+draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,7 +44,7 @@ url_poster = ""
   focal_point = ""
 +++
 
-I started a research project in the area of Effective Field Theory investigating restrictions on Horndeski theories placed by positivity bounds.
+Research goal: investigation of the restrictions  placed by positivity bounds on Horndeski theories of gravity.
 Project in collaboration with Prof. Francesco Riva (Department of Theoretical Physics, University of Geneva).
 
 See reference [arXiv:1904.05874][1].
