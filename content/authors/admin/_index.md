@@ -87,7 +87,7 @@ user_groups:
  
 ---
 
-I am a graduate student in Mathematical and Theoretical Physics exploring in different research areas for the purpose of probing the most fundamental physical phenomena and their underlying mathematical structures. 
+I am a graduate student in Mathematical and Theoretical Physics exploring different research areas for the purpose of probing the most fundamental physical phenomena and their underlying mathematical structures. 
 
 I am currently participating in the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
 
