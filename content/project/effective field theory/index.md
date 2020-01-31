@@ -44,7 +44,7 @@ url_poster = ""
   focal_point = ""
 +++
 
-I am investigating the restrictions placed by positivity bounds on Horndeski theories of gravity.
+I am investigating the restrictions placed by positivity bounds on Horndeski theories of modified gravity.
 
 Project in collaboration with Prof. Francesco Riva (Department of Theoretical Physics, University of Geneva).
 
