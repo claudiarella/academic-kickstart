@@ -32,9 +32,6 @@ subtitle = ""
   # [[content.filter_button]]
   #  name = "Other"
   #  tag = "Demo"
-  
-  
-[[project]] title = "Software Engineering Intern" company = "Pangea Formazione" company_url = "https://www.pangeaformazione.it" location = "Rome, Italy" date_start = "2019-07-01" date_end = "2019-07-31" description = """ Contributed to Deep Learning predictive model for preventative maintenance of large infrastructures equipped with alarm nets. Project implemented using Bayesian Neural Networks and programming language R. """
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
