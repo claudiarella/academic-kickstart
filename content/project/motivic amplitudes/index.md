@@ -1,5 +1,5 @@
 +++
-title = "My Project Name"
+title = "Motivic Amplitudes"
 date = 2020-01-31T13:44:32+01:00
 draft = false
 
@@ -43,3 +43,5 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+In collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford), I am working on a research project in the field of Motivic Amplitudes investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics.
