@@ -84,13 +84,13 @@ user_groups:
 # For Short Description:
 # [Here][1] is my extended CV.
 # [1]: files/cv.pdf
+
+# In collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford), I am working on a research project in the field of Motivic Amplitudes investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics. 
+
+# In collaboration with Prof. Francesco Riva (Department of Theoretical Physics, University of Geneva), I am working on a research project in the area of Effective Field Theory investigating restrictions on Horndeski theories placed by positivity bounds.
  
 ---
 
 I am a graduate student in Mathematical and Theoretical Physics exploring different research areas for the purpose of probing the most fundamental physical phenomena and their underlying mathematical structures. 
 
 I am currently participating in the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
-
-In collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford), I am working on a research project in the field of Motivic Amplitudes investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics. 
-
-In collaboration with Prof. Francesco Riva (Department of Theoretical Physics, University of Geneva), I am working on a research project in the area of Effective Field Theory investigating restrictions on Horndeski theories placed by positivity bounds.
