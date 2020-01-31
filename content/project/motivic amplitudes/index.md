@@ -44,7 +44,7 @@ url_poster = ""
   focal_point = ""
 +++
 
-I am investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics.
+I am investigating the motivic Galois coaction and factorisation theorems for Feynman graphs with non-generic kinematics.
 
 Project in collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford).
 
