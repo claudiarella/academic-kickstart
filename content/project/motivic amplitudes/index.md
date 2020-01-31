@@ -1,6 +1,6 @@
 +++
 title = "Motivic Amplitudes"
-date = 2020-01-31T13:44:32+01:00
+date = 2020-01-30T13:44:32+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -44,8 +44,10 @@ url_poster = ""
   focal_point = ""
 +++
 
-Research goal: investigation of the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics.
+I am investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics.
+
 Project in collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford).
+
 See reference [arXiv:1512.06409][1].
 
 [1]: https://arxiv.org/abs/1512.06409v3
