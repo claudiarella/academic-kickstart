@@ -15,9 +15,9 @@ role: Excellence Fellow
 # Organizations/Affiliations
 organizations:
 - name: NCCR SwissMAP
-  url: ""
+  url: "http://www.nccr-swissmap.ch"
 - name: University of Geneva
-  url: ""
+  url: "https://www.unige.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -87,4 +87,10 @@ user_groups:
  
 ---
 
-I am a graduate student in Mathematical and Theoretical Physics, currently pursuing the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
+I am a graduate student in Mathematical and Theoretical Physics exploring in different research areas for the purpose of probing the most fundamental physical phenomena and their underlying mathematical structures. 
+
+I am currently participating in the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
+
+In collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford), I am working on a research project in the field of Motivic Amplitudes investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics. 
+
+In collaboration with Prof. Francesco Riva (Department of Theoretical Physics, University of Geneva), I am working on a research project in the area of Effective Field Theory investigating restrictions on Horndeski theories placed by positivity bounds.
