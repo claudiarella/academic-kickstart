@@ -10,22 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Excellence Fellow
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: NCCR SwissMAP
-  url: "http://www.nccr-swissmap.ch"
 - name: University of Geneva
   url: "https://www.unige.ch"
+- name: NCCR SwissMAP
+  url: "http://www.nccr-swissmap.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
 - Mathematical Physics 
-- Theoretical Particle Physics
-- Astrophysics and Cosmology
+- Theoretical High Energy Physics
 - Data Science
 
 education:
