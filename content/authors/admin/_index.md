@@ -29,14 +29,11 @@ interests:
 
 education:
   courses:
-  - course: Master Class in Mathematical Physics
-    institution: University of Geneva
-    year: 2020
   - course: MSc in Mathematical and Theoretical Physics
     institution: University of Oxford, St John's College
     year: 2019
   - course: BSc in Physics
-    institution: University of Rome La Sapienza
+    institution: Sapienza University of Rome
     year: 2018
 
 # Social/Academic Networking
@@ -90,6 +87,6 @@ user_groups:
  
 ---
 
-I am a graduate student in Mathematical and Theoretical Physics exploring different research areas for the purpose of probing the most fundamental physical phenomena and their underlying mathematical structures. 
+I am a graduate student in Mathematical and Theoretical Physics exploring different research areas to probe the most fundamental physical phenomena and their underlying mathematical structures. 
 
 I am currently participating in the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
