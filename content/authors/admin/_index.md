@@ -30,11 +30,11 @@ interests:
 education:
   courses:
   - course: MSc in Mathematical and Theoretical Physics
-    institution: University of Oxford, St John's College
-    year: 2019
+    institution: University of Oxford, St John's College - 2019
+    # year: 2019
   - course: BSc in Physics
-    institution: Sapienza University of Rome
-    year: 2018
+    institution: Sapienza University of Rome - 2018
+    # year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
