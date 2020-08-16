@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2017-11-30"
   description = """
- Contributed to Monte Carlo optical simulation of the Small-Angle Calorimeter of the PADME detector using simulation software Geant4 and programming language C++. Characterised performance of a single PbF2 crystal attached to a Hamamatsu R13478UV photomultiplier tube using data analysis software ROOT. PADME (Positron Annihilation into Dark Matter Experiment) is a positron-on-target collision experiment searching for dark photon production at high intensity at the DAFNE Beam Test Facility.
+ Contributed to Monte Carlo optical simulation of the Small-Angle Calorimeter of PADME's detector using simulation software Geant4 and programming language C++. Characterised performance of a single $PbF_2$ crystal attached to a Hamamatsu R13478UV photomultiplier tube using data analysis software ROOT. PADME (Positron Annihilation into Dark Matter Experiment) is a positron-on-target collision experiment searching for dark photon production at high intensity at the DAFNE Beam Test Facility.
   """
 
 +++
