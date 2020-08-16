@@ -80,10 +80,6 @@ user_groups:
  - Researchers
  - Visitors
  
----
-
-I am a PhD Candidate in Mathematical Physics at the Department of Theoretical Physics, University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
-
 # ... driven by the wish to probe the most fundamental physical phenomena and their underlying mathematical structures. 
 # ... side collaborations
 # ... CERN internship
@@ -91,6 +87,10 @@ I am a PhD Candidate in Mathematical Physics at the Department of Theoretical Ph
 # In collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford), I am working on a research project in the field of Motivic Amplitudes investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics. 
 
 # In collaboration with Prof. Francesco Riva (Department of Theoretical Physics, University of Geneva), I am working on a research project in the area of Effective Field Theory investigating restrictions on Horndeski theories placed by positivity bounds.
+ 
+---
+
+I am a PhD Candidate in Mathematical Physics at the Department of Theoretical Physics, University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
 
 Find my CV [here][CV].
 
