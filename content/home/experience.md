@@ -17,26 +17,49 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Software Engineering Intern"
+  title = "Experimental Particle Physics Research Internship"
+  company = "NA62 @ CERN (European Organization for Nuclear Research)"
+  company_url = "https://na62.web.cern.ch"
+  location = "Geneva, Switzerland"
+  date_start = "2020-07-01"
+  date_end = "2017-09-30"
+  description = """
+ In progress.
+  """
+  
+[[experience]]
+  title = "Master Class in Mathematical Physics"
+  company = "NCCR (National Centre of Competence in Research) SwissMAP"
+  company_url = "https://www.nccr-swissmap.ch"
+  location = "Geneva, Switzerland"
+  date_start = "2019-10-01"
+  date_end = "2020-06-30"
+  description = """
+  In progress.
+"""
+
+[[experience]]
+  title = "Data Science Consulting Internship"
   company = "Pangea Formazione"
   company_url = "https://www.pangeaformazione.it"
   location = "Rome, Italy"
   date_start = "2019-07-01"
   date_end = "2019-07-31"
   description = """
-  Contributed to Deep Learning predictive model for preventative maintenance of large infrastructures equipped with alarm nets. Project implemented using Bayesian Neural Networks and programming language R.
+  Contributed to Deep Learning predictive model for preventative maintenance of large infrastructures equipped with alarm nets. Project implemented using Bayesian Neural Networks and programming language R and customized to fit the specific needs of the commissioning telecom company. Pangea Formazione is a Big Data Analytics and AI company providing customised AI software for management consulting and training.
 """
 
 [[experience]]
-  title = "Research Intern"
-  company = "INFN-LNF"
+  title = "Experimental Particle Physics Research Internship"
+  company = "PADME @ INFN (National Institute of Nuclear Physics) – LNF (National Laboratories of Frascati)"
   company_url = "http://padme.lnf.infn.it"
   location = "Frascati, Italy"
   date_start = "2017-09-01"
   date_end = "2017-11-30"
   description = """
- Contributed to Monte Carlo optical simulation of the SAC (Small-Angle Calorimeter) using software Geant4 and programming language C++. Characterised performance of PbF2 crystal attached to Hamamatsu R13478UV photomultiplier tube. Part of the experimental project PADME (Positron Annihilation into Dark Matter Experiment).
+ Contributed to Monte Carlo optical simulation of the Small-Angle Calorimeter of the PADME detector using simulation software Geant4 and programming language C++. Characterised performance of a single PbF_2 crystal attached to a Hamamatsu R13478UV photomultiplier tube using data analysis software ROOT. PADME (Positron Annihilation into Dark Matter Experiment) is a positron-on-target collision experiment searching for dark photon production at high intensity at the DAFNE Beam Test Facility.
   """
 
 +++
