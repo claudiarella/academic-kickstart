@@ -14,10 +14,10 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Theoretical Physics
+  url: "https://www.unige.ch/sciences/physique/theorique/fr/"
 - name: University of Geneva
   url: "https://www.unige.ch"
-- name: NCCR SwissMAP
-  url: "http://www.nccr-swissmap.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Mathematical Physics
+    institution: University of Geneva - in progress
+    # year: 2018
   - course: MSc in Mathematical and Theoretical Physics
     institution: University of Oxford, St John's College - 2019
     # year: 2019
@@ -77,20 +80,20 @@ user_groups:
  - Researchers
  - Visitors
  
-# For Short Description:
-# [Here][1] is my extended CV.
-# [1]: files/cv.pdf
+---
+
+I am a PhD Candidate in Mathematical Physics at the Department of Theoretical Physics, University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+
+# ... driven by the wish to probe the most fundamental physical phenomena and their underlying mathematical structures. 
+# ... side collaborations
+# ... CERN internship
 
 # In collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford), I am working on a research project in the field of Motivic Amplitudes investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics. 
 
 # In collaboration with Prof. Francesco Riva (Department of Theoretical Physics, University of Geneva), I am working on a research project in the area of Effective Field Theory investigating restrictions on Horndeski theories placed by positivity bounds.
- 
----
 
-I am a graduate student in Mathematical and Theoretical Physics exploring different research areas to probe the most fundamental physical phenomena and their underlying mathematical structures. 
+Find my CV [here][CV].
 
-I am currently participating in the Master Class in Mathematical Physics 2019-20 at the University of Geneva, Switzerland, funded by the NCCR SwissMAP Excellence Fellowship. 
-
-Find my CV [here][1].
-
-[1]: files/cv.pdf
+[CV]: files/cv.pdf
+[ERC]: https://renewquantum.eu
+[SwissMAP]: https://www.nccr-swissmap.ch
