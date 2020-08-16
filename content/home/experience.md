@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = "2019-07-31"
   description = """
-  Contributed to Deep Learning predictive model for preventative maintenance of large infrastructures equipped with alarm nets. Project implemented using Bayesian Neural Networks and programming language R and customized to fit the specific needs of the commissioning telecom company. Pangea Formazione is a Big Data Analytics and AI company providing customised software for management consulting and training.
+  Contributed to Deep Learning predictive model for preventative maintenance of large infrastructures equipped with alarm nets. Project implemented using Bayesian Neural Networks and programming language R and customized to fit the specific needs of the commissioning telecom company. Pangea Formazione is a Big Data Analytics and AI company providing customized software for management consulting and training.
 """
 
 [[experience]]
