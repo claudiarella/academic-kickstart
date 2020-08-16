@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Research and Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
