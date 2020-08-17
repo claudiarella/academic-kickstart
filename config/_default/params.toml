@@ -75,7 +75,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -90,14 +90,14 @@ email = "claudia.rella@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "7 Route de Drize", city = "Carouge", region = "", postcode = "1227", country = "Switzerland", country_code = ""}
+address = {street = "7 Route de Drize", city = "1227 Carouge", region = "", postcode = "", country = "Switzerland", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office 104"
+directions = "Office 104, Villa Battelle"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -113,7 +113,7 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "rella.claudia", link = "skype:rella.claudia"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "telegram", icon_pack = "fab", name = "@claudiarella", link = "https://telegram.me/@claudiarella"},
   ]
 
 ############################
