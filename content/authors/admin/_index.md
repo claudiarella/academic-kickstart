@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research and Teaching Assistant
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Theoretical Physics
-  url: "https://www.unige.ch/sciences/physique/theorique/fr/"
+# - name: Department of Theoretical Physics
+  # url: "https://www.unige.ch/sciences/physique/theorique/fr/"
 - name: University of Geneva
   url: "https://www.unige.ch"
 
@@ -24,13 +24,13 @@ bio:
 
 interests:
 - Mathematical Physics 
-- Theoretical High Energy Physics
+- High Energy Physics
 - Data Science
 
 education:
   courses:
   - course: PhD in Mathematical Physics
-    institution: University of Geneva (in progress)
+    institution: University of Geneva (starting in Sep 2020)
     # year: in progress
   - course: MSc in Mathematical and Theoretical Physics
     institution: University of Oxford, St John's College (2019)
