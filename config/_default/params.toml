@@ -97,7 +97,7 @@ address = {street = "7 Route de Drize", city = "1227 Carouge", region = "", post
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office 104, Villa Battelle"
+#directions = "Office 104, Villa Battelle"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -113,7 +113,7 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "rella.claudia", link = "skype:rella.claudia"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "@claudiarella", link = "https://telegram.me/@claudiarella"},
+  # {icon = "telegram", icon_pack = "fab", name = "@claudiarella", link = "https://telegram.me/@claudiarella"},
   ]
 
 ############################
