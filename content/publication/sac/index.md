@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1809.10840"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1809.10840"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.nima.2018.12.035"
