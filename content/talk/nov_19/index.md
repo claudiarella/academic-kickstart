@@ -1,5 +1,5 @@
 +++
-title = "Introduction to Motivic Amplitudes"
+title = "An Introduction to Motivic Feynman Integrals"
 date = 2019-11-19T15:00:00+02:00  # Schedule page publish date.
 draft = false
 
