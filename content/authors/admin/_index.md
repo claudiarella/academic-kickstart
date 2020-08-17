@@ -90,7 +90,7 @@ user_groups:
  
 ---
 
-I am a PhD Candidate in Mathematical Physics at the Department of Theoretical Physics, University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+I am an incoming PhD Candidate in Mathematical Physics at the Department of Theoretical Physics, University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
 
 Find my CV [here][CV].
 
