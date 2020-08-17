@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
 # - name: Department of Theoretical Physics
   # url: "https://www.unige.ch/sciences/physique/theorique/fr/"
 - name: University of Geneva
-  url: "https://www.unige.ch"
+  # url: "https://www.unige.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -90,10 +90,12 @@ user_groups:
  
 ---
 
-I am an incoming PhD Candidate in Mathematical Physics at the Department of Theoretical Physics, University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+I am a graduate student in Mathematical and Theoretical Physics at the [Department of Theoretical Physics][dep], [University of Geneva][uni], Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
 
 Find my CV [here][CV].
 
 [CV]: files/cv.pdf
 [ERC]: https://renewquantum.eu
 [SwissMAP]: https://www.nccr-swissmap.ch
+[uni]: https://www.unige.ch
+[dep]: https://www.unige.ch/sciences/physique/theorique/fr/
