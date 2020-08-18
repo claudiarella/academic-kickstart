@@ -63,6 +63,12 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1809.10840"}]
 
+links:
+- name: ArXiv
+  url: https://arxiv.org/abs/1809.10840
+- name: NIMA
+  url: https://doi.org/10.1016/j.nima.2018.12.035
+
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.nima.2018.12.035"
 
