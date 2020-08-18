@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Experimental Particle Physics Research Internship"
+  title = "Particle Physics Research Internship in Computing and Data Science"
   company = "NA62 @ CERN (European Organization for Nuclear Research)"
   company_url = "https://na62.web.cern.ch"
   location = "Geneva, Switzerland"
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Master Class in Mathematical Physics"
+  title = "Excellence Fellowship in Mathematical Physics"
   company = "NCCR (National Centre of Competence in Research) SwissMAP"
   company_url = "https://www.nccr-swissmap.ch"
   location = "Geneva, Switzerland"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Data Science Consulting Internship"
+  title = "Business Consulting Internship in Big Data and AI"
   company = "Pangea Formazione"
   company_url = "https://www.pangeaformazione.it"
   location = "Rome, Italy"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Experimental Particle Physics Research Internship"
+  title = "Particle Physics Research Internship in Simulation and Data Analysis"
   company = "PADME @ INFN (National Institute of Nuclear Physics) – LNF (National Laboratories of Frascati)"
   company_url = "http://padme.lnf.infn.it"
   location = "Frascati, Italy"
