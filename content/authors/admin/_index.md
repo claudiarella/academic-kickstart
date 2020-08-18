@@ -63,6 +63,10 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Claudia_Rella
   
+- icon: arxiv
+  icon_pack: ai
+  link: http://arxiv.org/a/rella_c_1
+  
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/claudia-rella/
