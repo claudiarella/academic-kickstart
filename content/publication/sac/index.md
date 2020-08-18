@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1809.10840"}]
 
 links:
-- name: ArXiv
+- name: arXiv
   url: https://arxiv.org/abs/1809.10840
 
 # Digital Object Identifier (DOI)
