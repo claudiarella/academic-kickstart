@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: PhD in Mathematical Physics
-    institution: University of Geneva (starting in Sep 2020)
+    institution: University of Geneva (in progress)
     # year: in progress
   - course: MSc in Mathematical and Theoretical Physics
     institution: University of Oxford, St John's College (2019)
