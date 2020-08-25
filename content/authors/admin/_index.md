@@ -96,7 +96,7 @@ user_groups:
  
 ---
 
-I am a graduate student in Mathematical and Theoretical Physics at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+I am a Research and Teaching Assistant in Mathematical and Theoretical Physics at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
 
 Find my CV [here][CV].
 
