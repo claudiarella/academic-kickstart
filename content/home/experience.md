@@ -30,14 +30,15 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Excellence Fellowship in Mathematical Physics"
-  company = "NCCR (National Centre of Competence in Research) SwissMAP"
+  title = "Master Class in Mathematical Physics"
+  company = "University of Geneva and NCCR (National Centre of Competence in Research) SwissMAP"
   company_url = "https://www.nccr-swissmap.ch"
   location = "Geneva, Switzerland"
   date_start = "2019-10-01"
   date_end = "2020-06-30"
   description = """
-  In progress.
+  Collaborated with Prof. Francis Brown (University of Oxford) on a project on Motivic Feynman Integrals, investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof. Francesco Riva (University of Geneva) on a project on Effective Field Theory, investigating the restrictions placed by positivity bounds and beyond on Horndeski theories of modified gravity.
+
 """
 
 [[experience]]
