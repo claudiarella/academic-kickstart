@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Particle Physics Research Internship in Computing and Data Science"
-  company = "NA62 @ CERN (European Organization for Nuclear Research)"
+  company = "NA62 @ CERN"
   company_url = "https://na62.web.cern.ch"
   location = "Geneva, Switzerland"
   date_start = "2020-07-01"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Master Class in Mathematical Physics"
-  company = "University of Geneva and NCCR (National Centre of Competence in Research) SwissMAP"
+  company = "University of Geneva and NCCR SwissMAP"
   company_url = "https://www.nccr-swissmap.ch"
   location = "Geneva, Switzerland"
   date_start = "2019-10-01"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Particle Physics Research Internship in Simulation and Data Analysis"
-  company = "PADME @ INFN (National Institute of Nuclear Physics) – LNF (National Laboratories of Frascati)"
+  company = "PADME @ INFN – LNF"
   company_url = "http://padme.lnf.infn.it"
   location = "Frascati, Italy"
   date_start = "2017-09-01"
