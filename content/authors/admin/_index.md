@@ -33,7 +33,7 @@ education:
     institution: University of Geneva (in progress)
     # year: in progress
   - course: MSc in Mathematical and Theoretical Physics
-    institution: University of Oxford, St John's College (2019)
+    institution: University of Oxford (2019)
     # year: 2019
   - course: BSc in Physics
     institution: University of Rome La Sapienza (2018)
