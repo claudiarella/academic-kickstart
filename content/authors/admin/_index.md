@@ -15,9 +15,9 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Department of Theoretical Physics
-  # url: "https://www.unige.ch/sciences/physique/theorique/fr/"
+  url: "https://www.unige.ch/sciences/physique/theorique/fr/"
 - name: University of Geneva
-  # url: "https://www.unige.ch"
+  url: "https://www.unige.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -31,13 +31,13 @@ education:
   courses:
   - course: PhD in Mathematical Physics
     institution: University of Geneva (in progress)
-    year: in progress
+    # year: in progress
   - course: MSc in Mathematical and Theoretical Physics
     institution: University of Oxford (2019)
-    year: 2019
+    # year: 2019
   - course: BSc in Physics
     institution: University of Rome La Sapienza (2018)
-    year: 2018
+    # year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -86,10 +86,11 @@ user_groups:
  
 ---
 
-I am a Research and Teaching Assistant in Mathematical and Theoretical Physics at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+I am a Research and Teaching Assistant in Mathematical and Theoretical Physics at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC], and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
 
-Find my CV [here][CV].
+Here are my [CV][CV] and complete list of attended [events][activities].
 
 [CV]: files/cv.pdf
+[activities]: files/cv_events.pdf
 [ERC]: https://renewquantum.eu
 [SwissMAP]: https://www.nccr-swissmap.ch
