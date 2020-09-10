@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://na62.web.cern.ch"
   location = "Geneva, Switzerland"
   date_start = "2020-07-01"
-  date_end = "2017-09-30"
+  date_end = "2020-09-30"
   description = """
  In progress.
   """
