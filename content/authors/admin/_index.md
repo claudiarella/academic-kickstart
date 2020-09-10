@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-# - name: Department of Theoretical Physics
+- name: Department of Theoretical Physics
   # url: "https://www.unige.ch/sciences/physique/theorique/fr/"
 - name: University of Geneva
   # url: "https://www.unige.ch"
@@ -31,13 +31,13 @@ education:
   courses:
   - course: PhD in Mathematical Physics
     institution: University of Geneva (in progress)
-    # year: in progress
+    year: in progress
   - course: MSc in Mathematical and Theoretical Physics
     institution: University of Oxford (2019)
-    # year: 2019
+    year: 2019
   - course: BSc in Physics
     institution: University of Rome La Sapienza (2018)
-    # year: 2018
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -84,16 +84,6 @@ user_groups:
  - Researchers
  - Visitors
  
-# ... driven by the wish to probe the most fundamental physical phenomena and their underlying mathematical structures. 
-# ... side collaborations
-# ... CERN internship
-
-# In collaboration with Prof. Francis Brown (Mathematical Institute, University of Oxford), I am working on a research project in the field of Motivic Amplitudes investigating the motivic Galois coaction and factorisation theorems in the case of Feynman graphs with non-generic kinematics. 
-
-# In collaboration with Prof. Francesco Riva (Department of Theoretical Physics, University of Geneva), I am working on a research project in the area of Effective Field Theory investigating restrictions on Horndeski theories placed by positivity bounds.
-
-# SPOSTA INTERESSI - VEDI ESEMPIO. I am a postdoctoral research assistant in mathematics at University of Oxford in the group of Professor Francis Brown. My research area is number theory and my interests include modular forms, elliptic curves and periods. I am also interested in applications of number theory to high energy physics. 
- 
 ---
 
 I am a Research and Teaching Assistant in Mathematical and Theoretical Physics at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
@@ -103,5 +93,3 @@ Find my CV [here][CV].
 [CV]: files/cv.pdf
 [ERC]: https://renewquantum.eu
 [SwissMAP]: https://www.nccr-swissmap.ch
-[uni]: https://www.unige.ch
-[dep]: https://www.unige.ch/sciences/physique/theorique/fr/
