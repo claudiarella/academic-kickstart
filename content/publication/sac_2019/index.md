@@ -53,7 +53,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1809.10840
 url_pdf: '' 
-url_preprint: https://arxiv.org/abs/1809.10840
+url_preprint: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
