@@ -20,7 +20,7 @@ authors:
 - G. Organtini
 - G. Piperno
 - M. Raggi
-- admin
+- C. Rella
 - A. Saputi
 - I. Sarra
 - E. Spiriti
