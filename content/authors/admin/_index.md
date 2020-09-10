@@ -90,7 +90,7 @@ I am a Research and Teaching Assistant in Mathematical and Theoretical Physics a
 
 Here are my [CV][CV] and list of attended [events][activities].
 
-[CV]: files/cv.pdf
-[activities]: files/cv_events.pdf
+[CV]: files/CV.docx
+[activities]: files/CV_events.docx
 [ERC]: https://renewquantum.eu
 [SwissMAP]: https://www.nccr-swissmap.ch
