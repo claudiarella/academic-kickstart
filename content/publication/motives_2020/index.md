@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Motivic Feynman Integrals"
 authors:
-- admin
+- C. Rella
 author_notes: []
 date: "2020-08-31"
 doi: ""
