@@ -86,18 +86,18 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "C/O Département de Physique Théorique, Université de Genève, Quai Ernest Ansermet 24", city = "1211 Genève 4", region = "", postcode = "", country = "Switzerland", country_code = ""}
+address = {street = "C/O Département de Physique Théorique, Université de Genève, Quai Ernest Ansermet 24", city = "1211 Genève 4", region = "", postcode = "", country = "Switzerland", country_code = "CH"}
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "claudia.rella@unige.ch"
-#phone = "888 888 88 88"
+phone = "+41 22 37 96178"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-#directions = "Office 104, Villa Battelle"
+directions = "Office PI 154"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
