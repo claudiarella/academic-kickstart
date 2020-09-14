@@ -89,7 +89,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 address = {street = "C/O Département de Physique Théorique, Université de Genève, Quai Ernest Ansermet 24", city = "1211 Genève 4", region = "", postcode = "", country = "Switzerland", country_code = ""}
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "claudia.rella@gmail.com"
+email = "claudia.rella@unige.ch"
 #phone = "888 888 88 88"
 
 # Geographic coordinates
