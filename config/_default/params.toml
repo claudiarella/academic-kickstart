@@ -90,14 +90,14 @@ address = {street = "C/O Département de Physique Théorique, Université de Gen
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "claudia.rella@unige.ch"
-phone = "+41 22 37 96178"
+#phone = "+41 22 37 96178"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Office PI 154"
+#directions = "Office PI 154"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
