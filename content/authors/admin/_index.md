@@ -90,7 +90,7 @@ I am a doctoral research assistant in Mathematical and Theoretical Physics in th
 
 I am driven by the wish to probe the most fundamental physical phenomena and the mathematical structures underlying them. My research interests lie in the fields of Theoretical High Energy Physics, Quantum Field Theory, String Theory, and their interplay with Algebraic Geometry and Topology.
 
-Since September 2020, I am member of the Scientific Council of the international conference centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland. 
+Since September 2020, I am a member of the Scientific Council of the international conference centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland. 
 
 Here are my [CV][CV] and a list of attended [events][activities].
 
