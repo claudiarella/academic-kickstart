@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = "2020-09-30"
   description = """
-Contributed to the design of an experimental framework for the detection of Dark Sector particles in proton beam dump experiments. Contributed to the implementation of a specific model to exploit the displaced-vertex signal from the secondary muons of NA62 to probe the parameter space of a theoretically conjectured light exotic scalar generated via muon bremsstrahlung. Produced the predicted sensitivity plot using programming language C++ and data analysis software ROOT. NA62 is a proton-on-target collision experiment originally searching for ultra-rare kaon decay at the Super Proton Synchrotron. Its use for Beyond Standard Model searches at low energies is a recent proposal.
+Contributed to the design of an experimental framework for the detection of Dark Sector particles in proton beam dump experiments. Contributed to the implementation of a specific model to exploit the displaced-vertex signal from the secondary muons of NA62 to probe the parameter space of a theoretically conjectured light exotic scalar generated via muon bremsstrahlung. Produced the predicted sensitivity plot using programming language C++ and data analysis software ROOT. NA62 is a proton-on-target collision experiment recently searching for Beyond Standard Model physics at low energies at the Super Proton Synchrotron.
   """
   
 [[experience]]
