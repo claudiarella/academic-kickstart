@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-06-30"
   description = """
-  Collaborated with Prof. Francis Brown (University of Oxford) on Motivic Feynman Integrals, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof. Francesco Riva (University of Geneva) on Effective Field Theory, specifically investigating the restrictions placed by positivity bounds and beyond on Horndeski theories of modified gravity.
+  Collaborated with Prof. Francis Brown (University of Oxford) on Motivic Feynman Integrals, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof. Francesco Riva (University of Geneva) on Effective Field Theory, specifically investigating the restrictions placed by beyond-positivity bounds on Horndeski theories of modified gravity.
 
 """
 
