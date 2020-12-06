@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Claudia Rella
+# name: Claudia Rella
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+# role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
