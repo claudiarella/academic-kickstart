@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Particle Physics Research Internship in Computing and Data Science"
+  title = "Particle Physics Research Internship in Modelling and Programming"
   company = "NA62 @ CERN"
   company_url = "https://na62.web.cern.ch"
   location = "Geneva, Switzerland"
   date_start = "2020-07-01"
   date_end = "2020-09-30"
   description = """
- In progress.
+ Contributed to design of an experimental framework for the production and detection of Dark Sector particles in proton beam dump experiments. Contributed to development of a specific model to exploit the displaced-vertex signal from the secondary muons of NA62 to probe the parameter space of a theoretically conjectured light exotic scalar generated via muon bremsstrahlung. Produced the predicted sensitivity plot using programming language C++ and data analysis software ROOT.
   """
   
 [[experience]]
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-06-30"
   description = """
-  Collaborated with Prof. Francis Brown (University of Oxford) on Motivic Feynman Integrals, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof. Francesco Riva (University of Geneva) on Effective Field Theory, specifically investigating the restrictions placed by beyond-positivity bounds on Horndeski theories of modified gravity.
+  Collaborated with Prof. Francis Brown (University of Oxford) on Motivic Feynman Integrals, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof. Francesco Riva (University of Geneva) on Effective Field Theory, specifically investigating the restrictions placed by beyond-positivity bounds on Horndeski theories of modified gravity. Attended courses on Random Matrix Theory, Brownian Motion, Stochastic Calculus, Random Growth and Loewner Evolution. 
 
 """
 
