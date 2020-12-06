@@ -19,6 +19,7 @@ abstract_short = ""
 # Name of event and optional event URL.
 event = "Research Seminar on Lie Groups and Moduli Spaces"
 event_url = "https://www.unige.ch/math/seminaires/lie-sem/"
+# "https://agenda.unige.ch/events/view/27326"
 
 # Location of event.
 location = "Villa Battelle, Common Room, University of Geneva, Geneva, Switzerland"
