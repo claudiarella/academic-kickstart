@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-# role: PhD Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ bio:
 interests:
 - Mathematical Physics 
 - High Energy Physics
-- Data Science
+- Computational Science
 
 education:
   courses:
@@ -86,7 +86,11 @@ user_groups:
  
 ---
 
-I am a Research and Teaching Assistant in Mathematical and Theoretical Physics at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC], and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+I am a doctoral research assistant in Mathematical and Theoretical Physics in the group of Professor Marcos Marino at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC], and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+
+I am driven by the wish to probe the most fundamental physical phenomena and the mathematical structures underlying them. My research interests lie in the fields of Theoretical High Energy Physics, Quantum Field Theory, String Theory, and their interplay with Algebraic Geometry and Topology.
+
+Since September 2020, I am member of the Scientific Council of the international conference centre [SwissMAP Research Station][SRS] based in Les Diablerets, Switzerland. 
 
 Here are my [CV][CV] and a list of attended [events][activities].
 
@@ -94,3 +98,4 @@ Here are my [CV][CV] and a list of attended [events][activities].
 [activities]: files/CV_events.pdf
 [ERC]: https://renewquantum.eu
 [SwissMAP]: https://www.nccr-swissmap.ch
+[SRS]: https://swissmaprs.ch
