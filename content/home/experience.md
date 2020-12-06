@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = "2020-09-30"
   description = """
- Contributed to the design of an experimental framework for the production and detection of Dark Sector particles in proton beam dump experiments. Contributed to the development and implementation of a specific model to exploit the displaced-vertex signal from the secondary muons of NA62 to probe the parameter space of a theoretically conjectured light exotic scalar generated via muon bremsstrahlung. Produced the predicted sensitivity plot using programming language C++ and data analysis software ROOT. NA62 is a proton-on-target collision experiment originally searching for ultra-rare kaon decay at the Super Proton Synchrotron. The use of NA62 for Beyond Standard Model searches at low energies has been proposed recently.
+Contributed to the design of an experimental framework for the detection of Dark Sector particles in proton beam dump experiments. Contributed to the implementation of a specific model to exploit the displaced-vertex signal from the secondary muons of NA62 to probe the parameter space of a theoretically conjectured light exotic scalar generated via muon bremsstrahlung. Produced the predicted sensitivity plot using programming language C++ and data analysis software ROOT. NA62 is a proton-on-target collision experiment originally searching for ultra-rare kaon decay at the Super Proton Synchrotron. Its use for Beyond Standard Model searches at low energies is a recent proposal.
   """
   
 [[experience]]
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2017-11-30"
   description = """
- Contributed to the Monte Carlo optical simulation of the Small-Angle Calorimeter of PADME's detector using simulation software Geant4 and programming language C++. Characterised the performance of a single $PbF_2$ crystal attached to a Hamamatsu R13478UV photomultiplier tube using data analysis software ROOT. PADME (Positron Annihilation into Dark Matter Experiment) is a positron-on-target collision experiment searching for dark photon production at high intensity at the DAFNE Beam Test Facility.
+ Contributed to the development of a Monte Carlo optical simulation of the Small-Angle Calorimeter of PADME's detector using simulation software Geant4 and programming language C++. Characterised the performance of a single PbF2 crystal attached to a Hamamatsu R13478UV photomultiplier tube with focus on time and energy resolutions using data analysis software ROOT. PADME (Positron Annihilation into Dark Matter Experiment) is a positron-on-target collision experiment searching for dark photon production at high intensity at the DAFNE Beam Test Facility.
   """
 
 +++
