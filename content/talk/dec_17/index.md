@@ -18,7 +18,8 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "PADME Weekly Meeting"
-event_url = "https://agenda.infn.it/event/14661/"
+event_url = "https://agenda.infn.it/category/781/" 
+# "https://agenda.infn.it/event/14661/"
 
 # Location of event.
 location = "Building 36, Room B1, INFN-LNF, Frascati, Italy"
