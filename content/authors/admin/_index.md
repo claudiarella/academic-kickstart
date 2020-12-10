@@ -23,9 +23,9 @@ organizations:
 bio: 
 
 interests:
-- Mathematical Physics 
-- High Energy Physics
-- Computational Science
+# - Mathematical Physics 
+# - High Energy Physics
+# - Computational Science
 
 education:
   courses:
