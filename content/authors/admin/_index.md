@@ -83,12 +83,6 @@ email: ""
 user_groups:
  - Researchers
  - Visitors
- 
-# I am driven by the wish to probe the fundamentals of physical phenomena and the mathematical structures underlying them. My research interests lie in the fields of Theoretical High Energy Physics, Quantum Field Theory, String Theory, and their interplay with Algebraic Geometry and Topology. 
-
-# I am driven by the wish to probe the fundamentals of physical phenomena and the mathematical structures underlying them. I am particularly interested in the fields of Theoretical High Energy Physics, Quantum Field Theory, String Theory, Gravity, and their interplay with Algebraic Geometry and Topology.
-
-# I am driven by the wish to probe the fundamentals of physical phenomena and the mathematical structures underlying them. I am particularly interested in the interplay between Quantum Field Theory, String Theory and Gravity, and Algebraic Geometry and Topology.
 
 ---
 
