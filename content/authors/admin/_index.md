@@ -86,7 +86,7 @@ user_groups:
 
 ---
 
-I am a doctoral research assistant in Mathematical and Theoretical Physics in the group of Professor Marcos Marino at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+I am a doctoral research assistant in Mathematical and Theoretical Physics in the group of Professor Marcos Marino at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC], and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
 
 Since September 2020, I am a member of the Scientific Council of the international conference centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland. 
 
