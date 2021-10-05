@@ -36,7 +36,7 @@ education:
     institution: University of Oxford (2019)
     # year: 2019
   - course: BSc in Physics
-    institution: University of Rome La Sapienza (2018)
+    institution: Sapienza University of Rome (2018)
     # year: 2018
 
 # Social/Academic Networking
