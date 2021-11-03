@@ -20,7 +20,7 @@ organizations:
   url: "https://www.unige.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: PhD Candidate in Mathematical Physics @ University of Geneva
 
 interests:
 # - Mathematical Physics 
