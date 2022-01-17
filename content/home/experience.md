@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Particle Physics Research Internship in Modelling and Programming"
+  title = "Theoretical Particle Physics Research Internship"
   company = "NA62 @ CERN"
   company_url = "https://na62.web.cern.ch"
   location = "Geneva, Switzerland"
@@ -30,7 +30,7 @@ Contributed to the design of an experimental framework for the detection of muon
   """
   
 [[experience]]
-  title = "Master Class in Mathematical Physics"
+  title = "Mathematical Physics Master Class"
   company = "University of Geneva and NCCR SwissMAP"
   company_url = "https://www.nccr-swissmap.ch"
   location = "Geneva, Switzerland"
@@ -41,7 +41,7 @@ Contributed to the design of an experimental framework for the detection of muon
 """
 
 [[experience]]
-  title = "Business Consulting Internship in Big Data and AI"
+  title = "Business Consulting Internship"
   company = "Pangea Formazione"
   company_url = "https://www.pangeaformazione.it"
   location = "Rome, Italy"
@@ -52,7 +52,7 @@ Contributed to the design of an experimental framework for the detection of muon
 """
 
 [[experience]]
-  title = "Particle Physics Research Internship in Simulation and Data Analysis"
+  title = "Experimental Particle Physics Research Internship"
   company = "PADME @ INFN – LNF"
   company_url = "http://padme.lnf.infn.it"
   location = "Frascati, Italy"
