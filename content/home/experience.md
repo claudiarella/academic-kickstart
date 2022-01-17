@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = "2020-09-30"
   description = """
-Contributed to the design of an experimental framework for the detection of muon-philic light Dark Sector particles in proton beam dump experiments. Contributed to the implementation of a model to exploit the displaced-vertex signal from the secondary muons of NA62-type experiments to probe the parameter space of a theoretically conjectured light exotic scalar generated via muon bremsstrahlung. Produced the sensitivity prediction using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO. NA62 is a proton-on-target collision experiment recently searching for Beyond Standard Model physics at low energies at the Super Proton Synchrotron.
+Contributed to the design of an experimental framework for the detection of muon-philic light Dark Sector particles in proton beam dump experiments. Implemented a model to exploit the displaced-vertex signal from the secondary muons of NA62-type experiments to probe the parameter space of a theoretically conjectured light exotic scalar generated via muon bremsstrahlung. Produced a sensitivity projection using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO. NA62 is a proton-on-target collision experiment recently searching for Beyond Standard Model physics at low energies at the Super Proton Synchrotron.
   """
   
 [[experience]]
@@ -37,8 +37,7 @@ Contributed to the design of an experimental framework for the detection of muon
   date_start = "2019-10-01"
   date_end = "2020-06-30"
   description = """
-  Collaborated with Prof. Francis Brown (University of Oxford) on Motivic Feynman Integrals, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof. Francesco Riva (University of Geneva) on Effective Field Theory, specifically investigating the restrictions placed by beyond-positivity bounds on Horndeski theories of modified gravity. Attended courses on Random Matrix Theory, Brownian Motion, Stochastic Calculus, Random Growth and Loewner Evolution. 
-
+  Collaborated with Prof Francis Brown (University of Oxford) on Motivic Feynman Integrals, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof Francesco Riva (University of Geneva) on Effective Field Theory, specifically investigating the restrictions placed by beyond-positivity bounds on Horndeski theories of modified gravity. Attended courses on Random Matrix Theory.
 """
 
 [[experience]]
