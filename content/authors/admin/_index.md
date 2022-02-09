@@ -88,7 +88,7 @@ user_groups:
 
 I am a PhD candidate in Mathematical Physics in the research group of Prof Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC], and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
 
-I am interested in the many facets of theoretical high energy physics, particularly in the interplay of quantum field theory and string theory with modern algebraic geometry and topology. Specific areas of interest are non-perturbative approaches to quantum field theory and string theory, algebraic and geometric structures of scattering amplitudes, effective field theory techniques, model building and physics probes beyond the Standard Model, dark matter and dark energy.
+I am interested in the many facets of theoretical high energy physics and, particularly, in the interplay of quantum field theory and string theory with modern algebraic geometry and topology. Specific areas of interest are non-perturbative approaches to quantum field theory and string theory, algebraic and geometric structures of scattering amplitudes, effective field theory techniques, model building and physics probes beyond the Standard Model, dark matter and dark energy.
 
 Since September 2020, I am a member of the Scientific Council of the international conference centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland. 
 
