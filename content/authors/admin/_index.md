@@ -63,9 +63,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=5p3L8pcAAAAJ&hl=en&authuser=3&oi=ao
   
-# - icon: inspire
-#   icon_pack: ai
-#   link: https://inspirehep.net/authors/1939853
+- icon: inspire
+  icon_pack: ai
+  link: https://inspirehep.net/authors/1939853
   
 - icon: researchgate
   icon_pack: ai
