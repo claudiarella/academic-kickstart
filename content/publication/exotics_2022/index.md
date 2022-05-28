@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: abstract: This article gives a short step-by-step introduction to the representation of parametric Feynman integrals in scalar perturbative quantum field theory as periods of motives. The application of motivic Galois theory to the algebro-geometric and categorical structures underlying Feynman graphs is reviewed up to the current state of research. The example of primitive log-divergent Feynman graphs in scalar massless $\\phi^4$ quantum field theory is analysed in detail.
+abstract: This article gives a short step-by-step introduction to the representation of parametric Feynman integrals in scalar perturbative quantum field theory as periods of motives. The application of motivic Galois theory to the algebro-geometric and categorical structures underlying Feynman graphs is reviewed up to the current state of research. The example of primitive log-divergent Feynman graphs in scalar massless $\\phi^4$ quantum field theory is analysed in detail.
 
 # Summary. An optional shortened abstract.
 summary: []
