@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Proton beam-dump experiments are a high-intensity source of secondary muons and provide an opportunity to probe muon-specific dark sectors. We adopt a simplified-models framework for an exotic light scalar particle coupling predominantly or exclusively to muons. Equipped with state-of-the-art muon simulations, we compute the sensitivity reach in the parameter space $(m_{S}, g_{\\mu})$ of the dark mediator, examining in detail the examples of the experiment NA62 in beam-dump mode and the proposed experiment SHiP. We find a significant yield of such exotics in the sub-GeV mass range. Our projections are competitive with those of primary muon-beam experiments and complementary to current constraints, spanning uncharted parameter space and accessing new physics potentially responsible for the $(g - 2)_{\\mu}$ anomaly.
+abstract: abstract: This article gives a short step-by-step introduction to the representation of parametric Feynman integrals in scalar perturbative quantum field theory as periods of motives. The application of motivic Galois theory to the algebro-geometric and categorical structures underlying Feynman graphs is reviewed up to the current state of research. The example of primitive log-divergent Feynman graphs in scalar massless $\\phi^4$ quantum field theory is analysed in detail.
 
 # Summary. An optional shortened abstract.
 summary: []
