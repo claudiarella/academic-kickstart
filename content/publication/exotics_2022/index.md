@@ -2,7 +2,7 @@
 title: "Searching for Muonphilic Dark Sectors with Proton Beams"
 authors:
 - C. Rella
-- B. D&oumlbrich
+- B. Döbrich
 - T.-T. Yu
 author_notes: []
 date: "2022-05-19"
