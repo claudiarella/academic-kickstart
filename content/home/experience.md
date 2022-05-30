@@ -19,18 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Theoretical Particle Physics Research Internship"
-  company = "NA62 @ CERN"
-  company_url = "https://na62.web.cern.ch"
+  title = "Research Internship in High Energy Physics Phenomenology"
+  company = "CERN"
+  company_url = "https://home.web.cern.ch"
   location = "Geneva, Switzerland"
   date_start = "2020-07-01"
   date_end = "2020-09-30"
   description = """
-Contributed to the design of an experimental framework for the detection of muon-philic light Dark Sector particles in proton beam dump experiments. Implemented a model to exploit the displaced-vertex signal from the secondary muons of NA62-type experiments to probe the parameter space of a theoretically conjectured light exotic scalar generated via muon bremsstrahlung. Produced a sensitivity projection using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO. NA62 is a proton-on-target collision experiment recently searching for Beyond Standard Model physics at low energies at the Super Proton Synchrotron.
+  Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO. Supervised by Dr Babette Döbrich (CERN).
   """
   
 [[experience]]
-  title = "Mathematical Physics Master Class"
+  title = "Master Class in Mathematical Physics"
   company = "University of Geneva and NCCR SwissMAP"
   company_url = "https://www.nccr-swissmap.ch"
   location = "Geneva, Switzerland"
@@ -52,14 +52,14 @@ Contributed to the design of an experimental framework for the detection of muon
 """
 
 [[experience]]
-  title = "Experimental Particle Physics Research Internship"
+  title = "Research Internship in Experimental Particle Physics"
   company = "PADME @ INFN – LNF"
   company_url = "http://padme.lnf.infn.it"
   location = "Frascati, Italy"
   date_start = "2017-09-01"
   date_end = "2017-11-30"
   description = """
- Contributed to the development of a Monte Carlo optical simulation of the Small-Angle Calorimeter of PADME's detector using simulation software Geant4 and programming language C++. Characterised the performance of a single PbF2 crystal attached to a Hamamatsu R13478UV photomultiplier tube with focus on time and energy resolutions using data analysis software ROOT. PADME (Positron Annihilation into Dark Matter Experiment) is a positron-on-target collision experiment searching for dark photon production at high intensity at the DAFNE Beam Test Facility.
+  Contributed to the development of a Monte Carlo optical simulation of the Small-Angle Calorimeter of PADME's detector using simulation software Geant4 and programming language C++. Characterised the performance of a single PbF2 crystal attached to a Hamamatsu R13478UV photomultiplier tube with focus on time and energy resolutions using data analysis software ROOT. PADME (Positron Annihilation into Dark Matter Experiment) is a positron-on-target collision experiment searching for dark photon production at high intensity at the DAFNE Beam Test Facility. Supervised by Prof Mauro Raggi (Sapienza University of Rome).
   """
 
 +++
