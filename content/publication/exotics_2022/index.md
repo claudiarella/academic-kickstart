@@ -5,8 +5,8 @@ authors:
 - B. Döbrich
 - T.-T. Yu
 author_notes: []
-date: "2022-05-19"
-doi: ""
+date: "2022-08-24"
+doi: "10.1103/PhysRevD.106.035023"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
