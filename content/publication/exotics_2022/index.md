@@ -15,7 +15,7 @@ doi: "10.1103/PhysRevD.106.035023"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review D*, Volume 106, Issue 3, Pages 035023(13), 2022"
+publication: "*Physical Review D*, Volume 106 (2022), Issue 3, Pages 035023(13)"
 publication_short: "*Phys. Rev. D* 106 (2022) 3, 035023"
 
 abstract: Proton beam-dump experiments are a high-intensity source of secondary muons and provide an opportunity to probe muon-specific dark sectors. We adopt a simplified-models framework for an exotic light scalar particle coupling predominantly or exclusively to muons. Equipped with state-of-the-art muon simulations, we compute the sensitivity reach in the parameter space $(m\_{S}, \\, g\_{\\mu})$ of the dark mediator, examining in detail the examples of the experiment NA62 in beam-dump mode and the proposed experiment SHiP. We find a significant yield of such exotics in the sub-GeV mass range. Our projections are competitive with those of primary muon-beam experiments and complementary to current constraints, spanning uncharted parameter space and accessing new physics potentially responsible for the $(g-2)\_{\\mu}$ anomaly.
