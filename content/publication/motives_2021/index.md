@@ -1,5 +1,5 @@
 ---
-title: "An Introduction to Motivic Feynman Integrals"
+title: "An introduction to motivic Feynman integrals"
 authors:
 - C. Rella
 author_notes: []
