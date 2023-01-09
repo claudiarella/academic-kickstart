@@ -1,5 +1,5 @@
 ---
-title: "Searching for Muonphilic Dark Sectors with Proton Beams"
+title: "Searching for muonphilic dark sectors with proton beams"
 authors:
 - C. Rella
 - B. Döbrich
