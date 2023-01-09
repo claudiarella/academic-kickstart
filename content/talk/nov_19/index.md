@@ -22,7 +22,7 @@ event_url = "https://www.unige.ch/math/seminaires/lie-sem/"
 # "https://agenda.unige.ch/events/view/27326"
 
 # Location of event.
-location = "Villa Battelle, Common Room, University of Geneva, Geneva, Switzerland"
+location = "Villa Battelle, Common Room, University of Geneva, Switzerland"
 
 # Is this a featured talk? (true/false)
 featured = false
