@@ -1,5 +1,5 @@
 ---
-title: "Characterization and Performance of PADME’s Cherenkov-Based Small-Angle Calorimeter"
+title: "Characterization and performance of PADME’s Cherenkov-based small-angle calorimeter"
 authors:
 - A. Frankenthal
 - J. Alexander
