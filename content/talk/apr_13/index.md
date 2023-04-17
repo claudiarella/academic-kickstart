@@ -18,7 +18,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Séminaire de Mathématique"
-event_url = ""
+event_url = "https://www.ihes.fr/evenements/"
 
 # Location of event.
 location = "Amphithéâtre Léon Motchane, IHES, France"
