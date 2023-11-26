@@ -94,9 +94,9 @@ user_groups:
 
 ---
 
-I am a PhD candidate in Mathematical Physics in the research group of Prof Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC], and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+I am a PhD candidate in Mathematical Physics in the research group of Prof Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
 
-Since September 2020, I am a member of the Scientific Council of the international conference centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland. 
+I am a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland.
 
 Here are my [CV][CV] and a list of attended [events][activities].
 
