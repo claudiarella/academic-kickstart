@@ -1,7 +1,8 @@
 ---
 title: "On the structure of wave functions in complex Chern-Simons theory"
 authors:
-- M. Mari&ntilde;o and C. Rella
+- M. Mari&ntilde;o
+- C. Rella
 author_notes: []
 date: "2023-12-04"
 doi: ""
