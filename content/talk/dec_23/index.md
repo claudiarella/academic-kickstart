@@ -18,7 +18,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Geometry and Physics Seminar"
-event_url = ""
+event_url = "https://agmp.sites.sheffield.ac.uk/seminars/SGaPS2023-24"
 
 # Location of event.
 location = "Room J11, Hicks Building, University of Sheffield, UK"
