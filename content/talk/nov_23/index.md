@@ -48,7 +48,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "files/nov_23.pdf"
+url_slides = ""
 url_video = ""
 url_code = ""
 
