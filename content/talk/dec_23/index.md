@@ -21,7 +21,7 @@ event = "Geometry and Physics Seminar"
 event_url = ""
 
 # Location of event.
-location = "University of Sheffield, UK"
+location = "Room J11, Hicks Building, University of Sheffield, UK"
 
 # Is this a featured talk? (true/false)
 featured = false
