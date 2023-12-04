@@ -1,5 +1,5 @@
 +++
-title = "Monte Carlo Simulation of PADME's Small-Angle Calorimeter"
+title = "Monte Carlo simulation of PADME's small-angle calorimeter"
 date = 2017-12-01T14:50:00+02:00  # Schedule page publish date.
 draft = false
 
