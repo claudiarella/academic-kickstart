@@ -1,5 +1,5 @@
 +++
-title = "Motivic Scattering Amplitudes"
+title = "Motivic scattering amplitudes"
 date = 2019-08-13T17:15:00+02:00  # Schedule page publish date.
 draft = false
 
