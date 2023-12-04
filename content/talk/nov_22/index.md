@@ -1,5 +1,5 @@
 +++
-title = "Stokes Constants in Topological String Theory"
+title = "Stokes constants in topological string theory"
 date = 2022-11-04T14:00:00+01:00  # Schedule page publish date.
 draft = false
 
