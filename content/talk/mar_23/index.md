@@ -1,5 +1,5 @@
 +++
-title = "Resurgence, Stokes Constants, and Arithmetic Functions in Topological String Theory"
+title = "Resurgence, Stokes constants, and arithmetic functions in topological string theory"
 date = 2023-03-30T11:00:00+01:00  # Schedule page publish date.
 draft = false
 
