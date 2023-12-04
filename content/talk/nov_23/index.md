@@ -18,7 +18,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Quantum Mathematics Research Seminar"
-event_url = ""
+event_url = "https://www.sdu.dk/en/forskning/qm/events"
 
 # Location of event.
 location = "Centre for Quantum Mathematics, SDU, Denmark"
