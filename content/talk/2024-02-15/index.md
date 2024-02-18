@@ -21,7 +21,7 @@ event = "Workshop on Positive Geometry in Particle Physics and Cosmology"
 event_url = "[https://agmp.sites.sheffield.ac.uk/seminars/SGaPS2023-24](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology)"
 
 # Location of event.
-location = "E1 05 (Leibniz-Saal), MPI für Mathematik in den Naturwissenschaften, Leipzig, Germany"
+location = "E1 05 (Leibniz-Saal), MPI MiS, Leipzig, Germany"
 
 # Is this a featured talk? (true/false)
 featured = false
