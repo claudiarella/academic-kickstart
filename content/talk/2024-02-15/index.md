@@ -17,7 +17,7 @@ abstract = "The theory of resurgence provides powerful tools to access the non-p
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Positive Geometry in Particle Physics and Cosmology"
+event = "Workshop on Positive Geometry in Particle Physics and Cosmology"
 event_url = "[https://agmp.sites.sheffield.ac.uk/seminars/SGaPS2023-24](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology)"
 
 # Location of event.
