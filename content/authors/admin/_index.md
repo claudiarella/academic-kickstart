@@ -94,9 +94,9 @@ user_groups:
 
 ---
 
-I am a PhD candidate in Mathematical Physics in the research group of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. 
+I am a PhD candidate in Mathematical Physics in the research group of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. I plan to complete my doctoral studies in Summer 2024.
 
-I am a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland.
+I am a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland, since September 2020.
 
 I am interested in the many facets of theoretical high-energy physics - particularly the mathematical structures and dualities arising in quantum field theory and string theory. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern–Simons theory and the interplay of resurgence, strong-weak duality, and modularity. 
 
