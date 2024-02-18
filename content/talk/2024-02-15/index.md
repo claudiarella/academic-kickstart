@@ -1,12 +1,12 @@
 +++
 title = "Resurgence and Calabi-Yau geometries"
-date = 2024-02-15T10:00:00+00:00  # Schedule page publish date.
+date = 2024-02-15T11:00:00+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2024-02-15T11:00:00+00:00
-time_end = 2024-02-15T11:45:00+00:00
+time_start = 2024-02-15T11:00:00+01:00
+time_end = 2024-02-15T11:45:00+01:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
