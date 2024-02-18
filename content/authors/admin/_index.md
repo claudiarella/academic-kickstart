@@ -100,7 +100,7 @@ I am a member of the Scientific Council of the International Conference Centre [
 
 I am interested in the many facets of theoretical high-energy physics – particularly the mathematical structures and dualities arising in quantum field theory and string theory. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern–Simons theory and the interplay of resurgence, strong-weak duality, and modularity. 
 
-Other topics of interest are arithmetic properties of Calabi–Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
+Other topics of interest are number-theoretic properties of Calabi–Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
 
 Here are my [CV][CV] and a list of attended [events][activities].
 
