@@ -21,7 +21,7 @@ event = "TH String Theory Seminar"
 event_url = "https://indico.cern.ch/category/104/"
 
 # Location of event.
-location = "Room 4/2-037, CERN, Switzerland"
+location = "Room 2-037, Building 4, CERN, Switzerland"
 
 # Is this a featured talk? (true/false)
 featured = false
