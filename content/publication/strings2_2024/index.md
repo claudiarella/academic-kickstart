@@ -1,5 +1,5 @@
 ---
-title: "Strong-weak symmetry and quantum modularity of resurgent topological strings on local $ \mathbb{P}^2 $"
+title: "Strong-weak symmetry and quantum modularity of resurgent topological strings on local $ℙ^2$"
 authors:
 - V. Fantini
 - C. Rella
