@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company = "University of Geneva and NCCR SwissMAP"
   company_url = "https://www.nccr-swissmap.ch"
   location = "Geneva, Switzerland"
-  date_start = "2019-10-01"
+  date_start = "2019-09-01"
   date_end = "2020-06-30"
   description = """
   Collaborated with Prof Francis Brown (University of Oxford) on the application of motivic Galois theory to the study of Feynman integrals in perturbative QFT, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof Francesco Riva (University of Geneva) on EFT constraints arising from fundamental assumptions of UV consistency, specifically investigating the restrictions placed by (beyond-)positivity bounds on (beyond-)Horndeski theories of modified gravity. Attended courses on Random Matrix Theory.
