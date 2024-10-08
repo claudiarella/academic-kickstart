@@ -92,13 +92,13 @@ user_groups:
  - Researchers
  - Visitors
 
----
-
-I am a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the Huawei Young Talents Program, and a member of the [UNIVERSE+ collaboration][ERC2].
-
 # PhD candidate in Mathematical Physics in the research group of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. I plan to complete my doctoral studies in Summer 2024.
 
 # I have been a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland, from September 2020 to September 2024.
+
+---
+
+I am a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the Huawei Young Talents Program, and a member of the [UNIVERSE+ collaboration][ERC2].
 
 I am interested in the many facets of theoretical high-energy physics, particularly the mathematical structures and dualities arising in quantum field theory and string theory. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern–Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. 
 
