@@ -10,17 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Theoretical Physics
-  url: "https://www.unige.ch/sciences/physique/theorique/fr/"
-- name: University of Geneva
-  url: "https://www.unige.ch"
+- name: Institut des Hautes Études Scientifiques (IHES)
+  url: "https://www.ihes.fr/en/"
+- name: Université Paris-Saclay
+  url: "https://www.universite-paris-saclay.fr/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Mathematical Physics @ University of Geneva
+bio: Postdoctoral Researcher in Mathematical Physics @ IHES
 
 interests:
 # - Mathematical Physics 
@@ -30,8 +30,8 @@ interests:
 education:
   courses:
   - course: PhD in Mathematical Physics
-    institution: University of Geneva (in progress)
-    # year: in progress
+    institution: University of Geneva (2024)
+    # year: 2024
   - course: MSc in Mathematical and Theoretical Physics
     institution: University of Oxford (2019)
     # year: 2019
@@ -94,9 +94,11 @@ user_groups:
 
 ---
 
-I am a PhD candidate in Mathematical Physics in the research group of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. I plan to complete my doctoral studies in Summer 2024.
+I am a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the Huawei Young Talents Program, and a member of the [UNIVERSE+ collaboration][ERC2].
 
-I have been a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland, since September 2020.
+# PhD candidate in Mathematical Physics in the research group of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. I plan to complete my doctoral studies in Summer 2024.
+
+# I have been a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland, from September 2020 to September 2024.
 
 I am interested in the many facets of theoretical high-energy physics, particularly the mathematical structures and dualities arising in quantum field theory and string theory. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern–Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. 
 
@@ -106,6 +108,9 @@ Here is my [CV][CV] and a list of attended [events][activities].
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
-[ERC]: https://renewquantum.eu
+
 [SwissMAP]: https://www.nccr-swissmap.ch
 [SRS]: https://swissmaprs.ch
+
+[ERC]: https://renewquantum.eu
+[ERC2]: https://positive-geometry.com
