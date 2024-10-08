@@ -86,7 +86,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "C/O IHES, Le Bois-Marie, 35 Route de Chartres", city = "91440 Bures-sur-Yvette", region = "", postcode = "", country = "France", country_code = "FR"}
+address = {street = "IHES, Le Bois-Marie, 35 Route de Chartres", city = "91440 Bures-sur-Yvette", region = "", postcode = "", country = "France", country_code = "FR"}
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "claudia.rella@unige.ch"
