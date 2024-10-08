@@ -98,7 +98,7 @@ user_groups:
 
 ---
 
-I am a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the Huawei Young Talents Program, and a member of the [UNIVERSE+ collaboration][ERC2].
+I am a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the [Huawei Young Talents Program][Huawei], and a member of the [UNIVERSE+ collaboration][ERC2].
 
 I am interested in the many facets of theoretical high-energy physics, particularly the mathematical structures and dualities arising in quantum field theory and string theory. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern–Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. 
 
@@ -114,3 +114,4 @@ Here is my [CV][CV] and a list of attended [events][activities].
 
 [ERC]: https://renewquantum.eu
 [ERC2]: https://positive-geometry.com
+[Huawei]: https://www.ihes.fr/en/huawei-young-talents-program/
