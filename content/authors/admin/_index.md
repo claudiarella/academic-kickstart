@@ -98,11 +98,11 @@ user_groups:
 
 ---
 
-I am a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques (IHES), France, funded by the [Huawei Young Talents Program][Huawei], and a member of the [UNIVERSE+ collaboration][ERC2].
+Since October 2024, I have been a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the [Huawei Young Talents Program][Huawei], and a member of the [UNIVERSE+ collaboration][ERC2].
 
-In September 2024, I completed my doctoral studies under the supervision of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC]. From September 2020 to September 2024, I was affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP] and a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland.
+From September 2020 to September 2024, I conducted my doctoral studies under the supervision of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC]. I was also affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP] and a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland.
 
-I am interested in the many facets of theoretical high-energy physics, particularly the mathematical structures and dualities arising in quantum field and string theories. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern–Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are number-theoretic properties of Calabi–Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
+I am interested in the many facets of theoretical high-energy physics, particularly the mathematical structures and dualities arising in quantum field and string theories. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern-Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are the number-theoretic properties of Calabi-Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
 
 Here is my [CV][CV] and a list of attended [events][activities].
 
