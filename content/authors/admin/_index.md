@@ -98,7 +98,7 @@ user_groups:
 
 ---
 
-Since October 2024, I have been a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the [Huawei Young Talents Program][Huawei], and a member of the [UNIVERSE+ collaboration][ERC2].
+I am a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the [Huawei Young Talents Program][Huawei], and a member of the [UNIVERSE+ collaboration][ERC2].
 
 From September 2020 to September 2024, I conducted my doctoral studies under the supervision of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC]. I was also affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP] and a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland.
 
