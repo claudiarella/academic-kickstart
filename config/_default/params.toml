@@ -89,7 +89,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 address = {street = "IHES, 35 Route de Chartres", city = "91440 Bures-sur-Yvette", region = "", postcode = "", country = "France", country_code = "FR"}
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "claudia.rella@unige.ch"
+email = "rella@ihes.fr"
 #phone = "+41 22 37 96178"
 
 # Geographic coordinates
