@@ -1,5 +1,5 @@
 +++
-title = "Strong-weak symmetry and quantum modularity of resurgent topological strings "
+title = "Strong-weak symmetry and quantum modularity of resurgent topological strings"
 date = 2024-09-13T11:30:00+01:00  # Schedule page publish date.
 draft = false
 
@@ -21,7 +21,7 @@ event = "GAP XIX: Moduli Spaces and Higher Structures"
 event_url = "https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html"
 
 # Location of event.
-location = "Room I, Chemistry building "Vincenzo Caglioti" (CU032), Sapienza University of Rome, Italy"
+location = "Room I, Building Vincenzo Caglioti (CU032), Sapienza University of Rome, Italy"
 
 # Is this a featured talk? (true/false)
 featured = false
