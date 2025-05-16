@@ -13,18 +13,7 @@ all_day = false
 authors = ["Claudia Rella"]
 
 # Abstract and optional shortened version.
-abstract = "Perturbative expansions in quantum theory, particularly in quantum field theory and
-string theory, are typically factorially divergent due to hidden non-perturbative sectors.
-First developed in the 1970s and 80s, the theory of resurgence provides universal
-machinery to extract non-perturbative effects, which are encoded in exponentially small
-corrections, from the perturbative series itself. Very recently, it has been observed that,
-under special assumptions, non-perturbative data accessed via resurgent methods
-exhibit intrinsic number-theoretic properties, which appear to be rooted in symmetries
-of the geometry underlying the quantum theory. The framework of modular resurgence
-aims to formalise this observation. In this talk, I will first introduce the systematic,
-algebraic approach of resurgence to the problem of divergences. I will then describe the
-emerging bridge between non-perturbative effects and arithmetic structures and
-conclude with a concrete example from topological string theory."
+abstract = "Perturbative expansions in quantum theory, particularly in quantum field theory and string theory, are typically factorially divergent due to hidden non-perturbative sectors. First developed in the 1970s and 80s, the theory of resurgence provides universal machinery to extract non-perturbative effects, which are encoded in exponentially small corrections, from the perturbative series itself. Very recently, it has been observed that, under special assumptions, non-perturbative data accessed via resurgent methods exhibit intrinsic number-theoretic properties, which appear to be rooted in symmetries of the geometry underlying the quantum theory. The framework of modular resurgence aims to formalise this observation. In this talk, I will first introduce the systematic, algebraic approach of resurgence to the problem of divergences. I will then describe the emerging bridge between non-perturbative effects and arithmetic structures and conclude with a concrete example from topological string theory."
 abstract_short = ""
 
 # Name of event and optional event URL.
