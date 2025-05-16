@@ -17,7 +17,7 @@ abstract = "Factorially divergent power series naturally arise as perturbative e
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Holonomic Techniques for Feynman Integrals"
+event = "Workshop on Holonomic Techniques for Feynman Integrals"
 event_url = "https://indico.mpp.mpg.de/event/10191/overview"
 
 # Location of event.
