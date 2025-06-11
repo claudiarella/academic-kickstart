@@ -17,7 +17,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Building on the results of [arXiv:2404.11550](https://arxiv.org/abs/2404.11550) and [arXiv:2404.10695](https://arxiv.org/abs/2404.10695), we study the resurgence of q-Pochhammer symbols and determine their summability and quantum modularity properties. We construct a new, infinite family of pairs of modular resurgent series from the asymptotic expansions of sums of q-Pochhammer symbols weighted by suitable Dirichlet characters. These weighted sums fit into the modular resurgence paradigm and provide further evidence supporting our conjectures in [arXiv:2404.11550]. In the context of the topological string/spectral theory correspondence for toric Calabi-Yau threefolds, Kashaev and Mariño proved that the spectral traces of canonical quantum operators associated with local weighted projective planes can be expressed as sums of q-Pochhammer symbols. Exploiting this relation, we show that an exact strong-weak resurgent symmetry, first observed by the second author in [arXiv:2212.10606](https://arxiv.org/abs/2212.10606) and fully formalized in [arXiv:2404.10695] for local ℙ2, applies to all local ℙm,n, albeit stripped of some of the underlying number-theoretic properties. Under some assumptions, these properties are restored when considering linear combinations of the spectral traces that reproduce the weighted sums above.
+abstract: Building on the results of [arXiv:2404.11550](https://arxiv.org/abs/2404.11550) and [arXiv:2404.10695](https://arxiv.org/abs/2404.10695), we study the resurgence of q-Pochhammer symbols and determine their summability and quantum modularity properties. We construct a new, infinite family of pairs of modular resurgent series from the asymptotic expansions of sums of q-Pochhammer symbols weighted by suitable Dirichlet characters. These weighted sums fit into the modular resurgence paradigm and provide further evidence supporting our conjectures in [arXiv:2404.11550](https://arxiv.org/abs/2404.11550). In the context of the topological string/spectral theory correspondence for toric Calabi-Yau threefolds, Kashaev and Mariño proved that the spectral traces of canonical quantum operators associated with local weighted projective planes can be expressed as sums of q-Pochhammer symbols. Exploiting this relation, we show that an exact strong-weak resurgent symmetry, first observed by the second author in [arXiv:2212.10606](https://arxiv.org/abs/2212.10606) and fully formalized in [arXiv:2404.10695](https://arxiv.org/abs/2404.10695) for local ℙ2, applies to all local ℙm,n, albeit stripped of some of the underlying number-theoretic properties. Under some assumptions, these properties are restored when considering linear combinations of the spectral traces that reproduce the weighted sums above.
 
 # Summary. An optional shortened abstract.
 summary: []
@@ -28,7 +28,7 @@ featured: false
 
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2404.11550
+  url: https://arxiv.org/abs/2506.08265
 url_pdf: '' 
 url_preprint: '' 
 url_code: ''
