@@ -4,18 +4,18 @@ authors:
 - M. Mari&ntilde;o
 - C. Rella
 author_notes: []
-date: "2023-12-04"
-doi: ""
+date: "2026-01-06"
+doi: "10.3842/SIGMA.2026.002"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*Symmetry, Integrability and Geometry: Methods and Applications*, Volume 22 (2026), 002, 45 pages"
+publication_short: "*SIGMA* 22 (2026), 002, 45 pages"
 
 abstract: We study the structure of wave functions in complex Chern-Simons theory on the complement of a hyperbolic knot, emphasizing the similarities with the topological string/spectral theory correspondence. We first conjecture a hidden integrality structure in the holomorphic blocks and show that this structure guarantees the cancellation of potential singularities in the full non-perturbative wave function at rational values of the coupling constant. We then develop various techniques to determine the wave function at such rational points. Finally, we illustrate our conjectures and obtain explicit results in the examples of the figure-eight and the three-twist knots. In the case of the figure-eight knot, we also perform a direct evaluation of the state integral in the rational case and observe that the resulting wave function has the features of the ground state for a quantum mirror curve.
 
