@@ -4,7 +4,7 @@ authors:
 - V. Fantini
 - C. Rella
 author_notes: []
-date: "2024-04-01"
+date: "2024-04-16"
 doi: "https://doi.org/10.4310/CNTP.250215002033"
 
 # Publication type.
