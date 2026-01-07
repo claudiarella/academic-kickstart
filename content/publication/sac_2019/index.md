@@ -27,7 +27,7 @@ authors:
 - C. Taruggi
 - P. Valente
 author_notes: []
-date: "2018-09-01"
+date: "2018-09-28"
 doi: "10.1016/j.nima.2018.12.035"
 
 # Publication type.
