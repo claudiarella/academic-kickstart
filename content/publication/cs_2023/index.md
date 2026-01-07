@@ -4,7 +4,7 @@ authors:
 - M. Mari&ntilde;o
 - C. Rella
 author_notes: []
-date: "2026-01-06"
+date: "2023-12-01"
 doi: "10.3842/SIGMA.2026.002"
 
 # Publication type.
