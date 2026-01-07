@@ -3,7 +3,7 @@ title: "An introduction to motivic Feynman integrals"
 authors:
 - C. Rella
 author_notes: []
-date: "2021-03-26"
+date: "2020-09-01"
 doi: "10.3842/SIGMA.2021.032"
 
 # Publication type.
