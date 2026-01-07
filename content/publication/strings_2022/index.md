@@ -3,7 +3,7 @@ title: "Resurgence, Stokes constants, and arithmetic functions in topological st
 authors:
 - C. Rella
 author_notes: []
-date: "2023-11-07"
+date: "2022-12-01"
 doi: "10.4310/CNTP.2023.v17.n3.a4"
 
 # Publication type.
