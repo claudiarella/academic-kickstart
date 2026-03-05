@@ -16,7 +16,7 @@ doi: "10.4171/owr/2025/48"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Oberwolfach Reports 22 (2025), no. 4, pp. 2593–2632"
+publication: "Oberwolfach Reports 22 (2025), no. 4, pp. 2593–2632 (main reporter)"
 publication_short: "Oberwolfach Rep. 22(4):2593-2632"
 
 abstract: The resurgent analysis of asymptotic series has found diverse applications and led to profound insights into our understanding of enumerative geometry, difference equations, and quantum modular forms. Consequently, interactions among these three independent yet intertwined avenues of contemporary research have recently soared. This mini-workshop brought together both senior and junior researchers from each area to clarify the state of the art and establish common ground for collectively addressing the most relevant open questions in the field.
