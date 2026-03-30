@@ -21,7 +21,7 @@ event = "Workshop on Holonomic Techniques for Feynman Integrals"
 event_url = "https://indico.mpp.mpg.de/event/10191/overview"
 
 # Location of event.
-location = "MPP, Germany"
+location = "Max-Planck-Institut für Physik (MPP), München, Germany"
 
 # Is this a featured talk? (true/false)
 featured = false
