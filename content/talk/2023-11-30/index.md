@@ -21,7 +21,7 @@ event = "Quantum Mathematics Research Seminar"
 event_url = "https://www.sdu.dk/en/forskning/qm/events"
 
 # Location of event.
-location = "Centre for Quantum Mathematics, SDU, Odense, Denmark"
+location = "Centre for Quantum Mathematics, University of Southern Denmark (SDU), Odense, Denmark"
 
 # Is this a featured talk? (true/false)
 featured = false
