@@ -21,7 +21,7 @@ event = "Mathematical Physics and Algebraic Geometry Seminar"
 event_url = "https://cmsa.fas.harvard.edu/event/mathphys_51525/"
 
 # Location of event.
-location = "Room G-10, CMSA, Harvard University, USA"
+location = "Center Of Mathematical Sciences And Applications (CMSA), Harvard University, Cambridge, USA"
 
 # Is this a featured talk? (true/false)
 featured = false
