@@ -21,7 +21,7 @@ event = "Workshop on Resurgence and Modularity in QFT and String Theory"
 event_url = "https://www.ggi.infn.it/showevent.pl?id=467"
 
 # Location of event.
-location = "GGI, Italy"
+location = "Galileo Galilei Institute, Florence, Italy"
 
 # Is this a featured talk? (true/false)
 featured = false
