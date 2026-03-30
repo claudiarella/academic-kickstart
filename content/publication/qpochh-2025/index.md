@@ -4,8 +4,8 @@ authors:
 - V. Fantini
 - C. Rella
 author_notes: []
-date: "2026-03-25"
-doi: "https://doi.org/10.1007/s11005-026-02063-x"
+date: "2025-06-09"
+doi: "10.1007/s11005-026-02063-x"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
