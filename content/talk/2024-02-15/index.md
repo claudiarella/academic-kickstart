@@ -21,7 +21,7 @@ event = "Workshop on Positive Geometry in Particle Physics and Cosmology"
 event_url = "https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology"
 
 # Location of event.
-location = "MPI MiS, Leipzig, Germany"
+location = "Max-Planck-Institut für Mathematik in den Naturwissenschaften (MPI MiS), Leipzig, Germany"
 
 # Is this a featured talk? (true/false)
 featured = false
