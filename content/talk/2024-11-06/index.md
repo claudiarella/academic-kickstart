@@ -21,7 +21,7 @@ event = "The Seed Seminar on New trends in QFT, Resurgence and Modularity"
 event_url = "https://seedseminar.apps.math.cnrs.fr"
 
 # Location of event.
-location = "Institut Henri Poincaré, France"
+location = "Institut Henri Poincaré, Paris, France"
 
 # Is this a featured talk? (true/false)
 featured = false
