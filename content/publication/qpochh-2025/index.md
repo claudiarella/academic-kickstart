@@ -4,18 +4,18 @@ authors:
 - V. Fantini
 - C. Rella
 author_notes: []
-date: "2025-06-09"
-doi: ""
+date: "2026-03-25"
+doi: "https://doi.org/10.1007/s11005-026-02063-x"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Letters in Mathematical Physics 116, 39 (2026)"
+publication_short: "Lett. Math. Phys. 116, 39 (2026)"
 
 abstract: Building on the results of [arXiv:2404.11550](https://arxiv.org/abs/2404.11550) and [arXiv:2404.10695](https://arxiv.org/abs/2404.10695), we study the resurgence of $q$-Pochhammer symbols and determine their summability and quantum modularity properties. We construct a new, infinite family of pairs of modular resurgent series from the asymptotic expansions of sums of $q$-Pochhammer symbols weighted by suitable Dirichlet characters. These weighted sums fit into the modular resurgence paradigm and provide further evidence supporting our conjectures in [arXiv:2404.11550](https://arxiv.org/abs/2404.11550). In the context of the topological string/spectral theory correspondence for toric Calabi-Yau threefolds, Kashaev and Mariño proved that the spectral traces of canonical quantum operators associated with local weighted projective planes can be expressed as sums of $q$-Pochhammer symbols. Exploiting this relation, we show that an exact strong-weak resurgent symmetry, first observed by the second author in [arXiv:2212.10606](https://arxiv.org/abs/2212.10606) and fully formalized in [arXiv:2404.10695](https://arxiv.org/abs/2404.10695) for local $\mathbb{P}^2$, applies to all local $\mathbb{P}^{m,n}$, albeit stripped of some of the underlying number-theoretic properties. Under some assumptions, these properties are restored when considering linear combinations of the spectral traces that reproduce the weighted sums above.
 
