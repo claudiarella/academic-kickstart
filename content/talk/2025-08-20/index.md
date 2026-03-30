@@ -21,7 +21,7 @@ event = "ReNewQuantum Closing Conference"
 event_url = ""
 
 # Location of event.
-location = "SDU, Denmark"
+location = "Centre for Quantum Mathematics, University of Southern Denmark (SDU), Odense, Denmark"
 
 # Is this a featured talk? (true/false)
 featured = false
