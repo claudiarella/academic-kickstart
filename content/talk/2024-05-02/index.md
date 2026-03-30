@@ -21,7 +21,7 @@ event = "Special Guest Lecture"
 event_url = "https://math.yale.edu/event/strong-weak-symmetry-and-quantum-modularity-resurgent-topological-strings"
 
 # Location of event.
-location = "Yale University, USA"
+location = "Department of Mathematics, Yale University, New Haven, USA"
 
 # Is this a featured talk? (true/false)
 featured = false
