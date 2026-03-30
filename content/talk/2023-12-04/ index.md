@@ -21,7 +21,7 @@ event = "Geometry and Physics Seminar"
 event_url = "https://agmp.sites.sheffield.ac.uk/seminars/SGaPS2023-24"
 
 # Location of event.
-location = "Hicks Building, University of Sheffield, UK"
+location = "School of Mathematics and Statistics, University of Sheffield, UK"
 
 # Is this a featured talk? (true/false)
 featured = false
