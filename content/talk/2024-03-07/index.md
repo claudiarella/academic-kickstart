@@ -21,7 +21,7 @@ event = "Seminar on Quantum Modularity and Resurgence"
 event_url = "https://www.ihes.fr/evenements/"
 
 # Location of event.
-location = "Amphithéâtre Léon Motchane, IHES, France"
+location = "IHES, France"
 
 # Is this a featured talk? (true/false)
 featured = false
