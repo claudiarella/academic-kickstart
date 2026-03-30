@@ -21,7 +21,7 @@ event = "Séminaire de Mathématique"
 event_url = "https://www.ihes.fr/evenements/"
 
 # Location of event.
-location = "IHES, France"
+location = "IHES, Bures-sur-Yvette, France"
 
 # Is this a featured talk? (true/false)
 featured = false
