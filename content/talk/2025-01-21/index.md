@@ -21,7 +21,7 @@ event = "YOUNGST@RS - Physics and Number Theory"
 event_url = "https://indico.mitp.uni-mainz.de/event/426/overview"
 
 # Location of event.
-location = "Zoom @ MITP, Johannes Gutenberg University, Germany"
+location = "Zoom @ Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg-Universität Mainz, Germany"
 
 # Is this a featured talk? (true/false)
 featured = false
