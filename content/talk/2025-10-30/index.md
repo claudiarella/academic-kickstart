@@ -21,7 +21,7 @@ event = "Mini-Workshop on Resurgence, Difference Equations, and Quantum Modulari
 event_url = "https://www.mfo.de/www/activity/2544a"
 
 # Location of event.
-location = "MFO, Germany"
+location = "Mathematisches Forschungsinstitut Oberwolfach (MFO), Germany"
 
 # Is this a featured talk? (true/false)
 featured = false
