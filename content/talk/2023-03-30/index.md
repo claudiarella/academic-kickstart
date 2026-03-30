@@ -21,7 +21,7 @@ event = "Physical Mathematics Seminar"
 event_url = "https://sites.google.com/view/geneva-math-ph-seminars"
 
 # Location of event.
-location = "Room 1-07, Section de Mathématiques, Université de Genève, Switzerland"
+location = "Section de Mathématiques, Université de Genève, Switzerland"
 
 # Is this a featured talk? (true/false)
 featured = false
