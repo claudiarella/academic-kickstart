@@ -92,15 +92,15 @@ user_groups:
  - Researchers
  - Visitors
 
+ - # From 2020 to 2024, I conducted my doctoral studies under the supervision of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. I have been a junior member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland.
+
+# I am interested in the many facets of mathematical and theoretical high-energy physics, particularly the mathematical structures underlying non-perturbative phenomena in quantum field theory and string theory. My work focuses on the non-perturbative aspects of topological string theory and complex Chern-Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are the number-theoretic properties of Calabi-Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
+
 ---
 
 I am a postdoctoral researcher in mathematical physics in the group of Prof. Maxim Kontsevich at the Institut des Hautes Études Scientifiques (IHES), France, funded by the [Huawei Young Talents Program][Huawei], and an associated member of the [UNIVERSE+ collaboration][ERC2].
 
-# From 2020 to 2024, I conducted my doctoral studies under the supervision of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC] and affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP]. I have been a junior member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland.
-
 I am particularly interested in the mathematical structures underlying non-perturbative phenomena in quantum field theory and string theory and their interface with algebraic geometry, number theory, and quantum topology. My most recent work explores the interplay between resurgence, arithmetic, and quantum modularity. 
-
-# I am interested in the many facets of mathematical and theoretical high-energy physics, particularly the mathematical structures underlying non-perturbative phenomena in quantum field theory and string theory. My work focuses on the non-perturbative aspects of topological string theory and complex Chern-Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are the number-theoretic properties of Calabi-Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
 
 Here is my [CV][CV] and a list of attended [events][activities].
 
