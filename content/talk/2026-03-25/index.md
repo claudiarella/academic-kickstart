@@ -21,7 +21,7 @@ event = "Amplitudes and Algebraic Geometry"
 event_url = "https://www.esi.ac.at/events/e586/"
 
 # Location of event.
-location = "ESI, Austria"
+location = "Erwin Schrödinger International Institute for Mathematics and Physics (ESI), University of Vienna, Austria"
 
 # Is this a featured talk? (true/false)
 featured = false
