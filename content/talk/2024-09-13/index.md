@@ -21,7 +21,7 @@ event = "GAP XIX: Moduli Spaces and Higher Structures"
 event_url = "https://www1.mat.uniroma1.it/~fiorenza/GAP-Rome/GAP-XIX-2024-Rome.html"
 
 # Location of event.
-location = "Room I, Building Vincenzo Caglioti (CU032), Sapienza University of Rome, Italy"
+location = "Building Vincenzo Caglioti, Sapienza University of Rome, Italy"
 
 # Is this a featured talk? (true/false)
 featured = false
