@@ -21,7 +21,7 @@ event = "Workshop on The Arithmetic of Calabi–Yau Manifolds"
 event_url = "https://indico.mitp.uni-mainz.de/event/397/overview"
 
 # Location of event.
-location = "Room 2413-2-430, MITP, Johannes Gutenberg University, Germany"
+location = "Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg-Universität Mainz, Germany"
 
 # Is this a featured talk? (true/false)
 featured = false
