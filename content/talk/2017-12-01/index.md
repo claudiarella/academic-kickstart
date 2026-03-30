@@ -22,7 +22,7 @@ event_url = "https://agenda.infn.it/category/781/"
 # "https://agenda.infn.it/event/14661/"
 
 # Location of event.
-location = "Building 36, Room B1, INFN-LNF, Frascati, Italy"
+location = "INFN - LNF, Frascati, Italy"
 
 # Is this a featured talk? (true/false)
 featured = false
