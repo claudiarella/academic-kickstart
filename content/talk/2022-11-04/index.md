@@ -21,7 +21,7 @@ event = "Workshop on Mathematics of Beyond All-Orders Phenomena"
 event_url = "https://www.newton.ac.uk/event/ar2w02/"
 
 # Location of event.
-location = "Room 1, Isaac Newton Institute, University of Cambridge, UK"
+location = "Isaac Newton Institute, University of Cambridge, UK"
 
 # Is this a featured talk? (true/false)
 featured = false
