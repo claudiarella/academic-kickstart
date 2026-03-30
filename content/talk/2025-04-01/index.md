@@ -21,7 +21,7 @@ event = "Opening Conference of the CRC 1624: Higher structures, moduli spaces an
 event_url = "https://www.conferences.uni-hamburg.de/event/580/"
 
 # Location of event.
-location = "Lecture Hall B: Agathe-Lasch Lecture Hall, 2nd floor, Universität Hamburg, Germany"
+location = "Universität Hamburg, Germany"
 
 # Is this a featured talk? (true/false)
 featured = false
