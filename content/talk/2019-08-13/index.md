@@ -21,7 +21,7 @@ event = "Conference on Representation Theory and Integrable Systems"
 event_url = "http://rtis2019.math.iupui.edu"
 
 # Location of event.
-location = "Building HG, Room G5, ETH, Zurich, Switzerland"
+location = "ETH, Zurich, Switzerland"
 
 # Is this a featured talk? (true/false)
 featured = false
