@@ -21,7 +21,7 @@ event = "String Theory Seminar"
 event_url = "https://agenda.unige.ch/events/view/39888"
 
 # Location of event.
-location = "Room 306, Sciences I, University of Geneva, Switzerland"
+location = "Département de Physique Théorique, Université de Genève, Switzerland"
 
 # Is this a featured talk? (true/false)
 featured = false
