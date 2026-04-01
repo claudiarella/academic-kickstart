@@ -98,11 +98,13 @@ user_groups:
 
 ---
 
-I am a postdoctoral researcher in mathematical physics in the group of Prof. Maxim Kontsevich at the Institut des Hautes Études Scientifiques (IHES), France, funded by the [Huawei Young Talents Program][Huawei], and an associated member of the [UNIVERSE+ collaboration][ERC2].
+I am a postdoctoral researcher in mathematical physics at the Institut des Hautes Études Scientifiques (IHES), working in the group of Prof. Maxim Kontsevich. I am supported by the [Huawei Young Talents Program][Huawei] and am an associated member of the [UNIVERSE+ collaboration][ERC2].
 
-I am particularly interested in the mathematical structures underlying non-perturbative phenomena in quantum field theory and string theory and their interface with algebraic geometry, number theory, and quantum topology. My most recent work explores the interplay between resurgence, arithmetic, and quantum modularity. 
+My research focuses on the mathematical structures and dualities arising in quantum field theory and string theory and their interplay with several areas of mathematics, such as algebraic geometry, number theory, and quantum topology. 
 
-Here is my [CV][CV] and a list of attended [events][activities].
+My recent work explores structural connections between resurgence, arithmetic, and quantum modularity and their applications to non-perturbative phenomena.
+
+You can find my CV [here][CV] and a list of attended events [here][activities].
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
