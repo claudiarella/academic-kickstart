@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Huawei Young Talent Fellow"
+  company = "Institut des Hautes Études Scientifiques (IHES)"
+  company_url = "https://www.ihes.fr"
+  location = "Bures-sur-Yvette, France"
+  date_start = "2024-10-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Research Internship in High Energy Physics Phenomenology"
   company = "CERN"
   company_url = "https://home.web.cern.ch"
