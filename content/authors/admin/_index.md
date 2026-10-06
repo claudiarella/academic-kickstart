@@ -102,9 +102,9 @@ I am a postdoctoral researcher in mathematical physics at the Institut des Haute
 
 My research focuses on the mathematical structures and dualities arising in quantum field theory and string theory and their interplay with several areas of mathematics, such as algebraic geometry, number theory, and quantum topology. 
 
-My recent work explores structural connections between resurgence, arithmetic, and quantum modularity and their applications to non-perturbative phenomena.
+In recent years, I have explored structural connections between resurgence, arithmetic, and quantum modularity and their applications to non-perturbative phenomena in quantum physics and quantum topology, resulting in the still-evolving research programme of modular resurgence.
 
-You can find my CV [here][CV] and a list of attended events [here][activities].
+You can find my CV [here][CV] and a list of events I attended [here][activities].
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
