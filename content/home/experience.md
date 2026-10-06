@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   location = "Geneva, Switzerland"
   date_start = "2020-07-01"
   date_end = "2020-09-30"
-  description = """ """
-  # Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO. Supervised by Dr Babette Döbrich (CERN). """
+  description = ""
+  # Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO. Supervised by Dr Babette Döbrich (CERN).
   
 [[experience]]
   title = "Master Class in Mathematical Physics"
