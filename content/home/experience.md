@@ -47,14 +47,14 @@ date_format = "Jan 2006"
   description = ""
   # Collaborated with Prof Francis Brown (University of Oxford) on the application of motivic Galois theory to the study of Feynman integrals in perturbative QFT, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof Francesco Riva (University of Geneva) on EFT constraints arising from fundamental assumptions of UV consistency, specifically investigating the restrictions placed by (beyond-)positivity bounds on (beyond-)Horndeski theories of modified gravity.
 
-[[experience]]
-  title = "Business Consulting Internship"
-  company = "Pangea Formazione"
-  company_url = "https://www.pangeaformazione.it"
-  location = "Rome, Italy"
-  date_start = "2019-07-01"
-  date_end = "2019-08-31"
-  description = ""
+# [[experience]]
+#  title = "Business Consulting Internship"
+#  company = "Pangea Formazione"
+#  company_url = "https://www.pangeaformazione.it"
+#  location = "Rome, Italy"
+#  date_start = "2019-07-01"
+#  date_end = "2019-08-31"
+#  description = ""
   # Contributed to a Deep Learning predictive model for the preventative maintenance of large infrastructures equipped with alarm nets. Project implemented using Bayesian Neural Networks and programming language R and customized to fit the specific needs of the commissioning telecom company. Pangea Formazione is a Big Data Analytics and AI company providing customised software for management consulting and training.
 
 [[experience]]
