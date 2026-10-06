@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Huawei Young Talent Fellow"
+  title = "Huawei Young Talent Postdoctoral Fellowship"
   company = "Institut des Hautes Études Scientifiques (IHES)"
   company_url = "https://www.ihes.fr"
   location = "Bures-sur-Yvette, France"
