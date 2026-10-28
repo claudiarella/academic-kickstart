@@ -1,5 +1,5 @@
 +++
-title = "Resurgence and arithmetic of non-perturbative effects"
+title = "Modular resurgent structures"
 date = 2026-03-25T09:15:00+00:00  # Schedule page publish date.
 draft = false
 
@@ -17,11 +17,11 @@ abstract = "Perturbative expansions in quantum field theory and string theory ar
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Amplitudes and Algebraic Geometry"
-event_url = "https://www.esi.ac.at/events/e586/"
+event = "Cosmology and High Energy Physics XI"
+event_url = "https://coshep11.sciencesconf.org/?lang=en"
 
 # Location of event.
-location = "Erwin Schrödinger International Institute (ESI), University of Vienna, Austria"
+location = "Laboratoire Charles Coulomb (L2C), Université de Montpellier, France"
 
 # Is this a featured talk? (true/false)
 featured = false
