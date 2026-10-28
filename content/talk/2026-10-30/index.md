@@ -1,6 +1,6 @@
 +++
 title = "Modular resurgent structures"
-date = 2026-10-30T09:15:00+00:00  # Schedule page publish date.
+date = 2026-10-29T09:15:00+00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
