@@ -100,9 +100,9 @@ user_groups:
 
 I am a postdoctoral researcher in mathematical physics at the Institut des Hautes Études Scientifiques (IHES), working in the group of Prof. Maxim Kontsevich. I am supported by the [Huawei Young Talents Program][Huawei] and am an associated member of the [UNIVERSE+ collaboration][ERC2].
 
-In October 2026, I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences.
+In October 2026, I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences. Here is a [short article][IHES-article] about the prize and my research.
 
-My research focuses on the mathematical structures and dualities arising in quantum field theory and string theory, and their interplay with areas of mathematics such as algebraic geometry, number theory, and homological algebra. In recent years, I have explored structural connections between resurgence, arithmetic, and quantum modularity and their applications to non-perturbative phenomena in quantum physics and quantum topology, resulting in the still-evolving research programme of modular resurgence.
+My work focuses on the mathematical structures and dualities arising in quantum field theory and string theory, and their interplay with areas of mathematics such as algebraic geometry, number theory, and homological algebra. In recent years, I have explored structural connections between resurgence, arithmetic, and quantum modularity and their applications to non-perturbative phenomena in quantum physics and quantum topology, resulting in the still-evolving research programme of modular resurgence.
 
 You can find my CV [here][CV] and a list of events I attended [here][activities].
 
@@ -116,3 +116,4 @@ You can find my CV [here][CV] and a list of events I attended [here][activities]
 [ERC2]: https://positive-geometry.com
 [Huawei]: https://www.ihes.fr/en/huawei-young-talents-program/
 [FWIS]: https://www.academie-sciences.fr/35-chercheuses-davenir-recompensees-par-le-20e-prix-loreal-unesco-pour-les-femmes-et-la-science
+[IHES-article]: https://www.ihes.fr/en/claudia-rella-laureate-2/
