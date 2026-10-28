@@ -13,7 +13,7 @@ all_day = false
 authors = ["Claudia Rella"]
 
 # Abstract and optional shortened version.
-abstract = "Perturbative expansions in quantum field theory and string theory are typically factorially divergent, signalling the presence of exponentially suppressed corrections. Resurgence provides a universal framework for accessing the non-perturbative effects encoded in the divergence of asymptotic series. Under suitable assumptions, the data extracted through resurgent methods exhibit intrinsic number-theoretic and quantum modular properties, reflecting symmetries of the geometry underlying the quantum theory. The framework of modular resurgence formalises this interplay. In this talk, I will describe the emerging bridge between the resurgent and arithmetic structures encoded in the asymptotic expansions of certain quantum modular forms, and illustrate it with examples from the spectral theory of quantum operators associated with local weighted projective planes."
+abstract = "Perturbative expansions in quantum field theory and string theory are often factorially divergent, signalling the presence of hidden non-perturbative sectors. In this talk, I will review a body of work connecting the resurgent, arithmetic, and modular properties of certain perturbative series into the framework of modular resurgence. If time permits, I will describe examples from topological string theory and quantum topology."
 abstract_short = ""
 
 # Name of event and optional event URL.
