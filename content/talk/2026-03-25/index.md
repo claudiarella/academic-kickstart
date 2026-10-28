@@ -1,7 +1,7 @@
 +++
 title = "Resurgence and arithmetic of non-perturbative effects"
 date = 2026-03-25T09:15:00+00:00  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
