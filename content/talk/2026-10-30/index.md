@@ -1,12 +1,12 @@
 +++
 title = "Modular resurgent structures"
-date = 2026-10-25T09:15:00+00:00  # Schedule page publish date.
+date = 2026-10-30T09:15:00+00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2026-10-25T09:15:00+00:00
-time_end = 2026-10-25T10:15:00+00:00
+time_start = 2026-10-30T09:15:00+00:00
+time_end = 2026-10-30T10:15:00+00:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
