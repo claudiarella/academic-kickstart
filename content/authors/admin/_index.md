@@ -98,8 +98,8 @@ user_groups:
 
 ### Highlights
 
-- **October 2026:** I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences. Here is a [short article][IHES-article] about the prize and my research.
-- **August 2026:** A new research paper is available on arXiv at [https://arxiv.org/abs/2608.08902](https://arxiv.org/abs/2608.08902). Co-authored with Miranda Cheng, Ioana Coman, and Veronica Fantini.
+# - **October 2026:** I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences. Here is a [short article][IHES-article] about the prize and my research.
+# - **August 2026:** A new research paper is available on arXiv at [https://arxiv.org/abs/2608.08902](https://arxiv.org/abs/2608.08902). Co-authored with Miranda Cheng, Ioana Coman, and Veronica Fantini.
 
 ---
 
