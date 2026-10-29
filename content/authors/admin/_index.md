@@ -96,20 +96,20 @@ user_groups:
 
 # I am interested in the many facets of mathematical and theoretical high-energy physics, particularly the mathematical structures underlying non-perturbative phenomena in quantum field theory and string theory. My work focuses on the non-perturbative aspects of topological string theory and complex Chern-Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are the number-theoretic properties of Calabi-Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
 
-# In October 2026, I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences. Here is a [short article][IHES-article] about the prize and my research.
+### Highlights
+
+- **October 2026:** I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences. Here is a [short article][IHES-article] about the prize and my research.
+- **August 2026:** A new research paper is available on arXiv at [https://arxiv.org/abs/2608.08902](https://arxiv.org/abs/2608.08902). Co-authored with Miranda Cheng, Ioana Coman, and Veronica Fantini.
 
 ---
 
 I am a postdoctoral researcher in mathematical physics at the Institut des Hautes Études Scientifiques (IHES), working in the group of Prof. Maxim Kontsevich. I am supported by the [Huawei Young Talents Program][Huawei] and am an associated member of the [UNIVERSE+ collaboration][ERC2].
 
+In October 2026, I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences. Here is a [short article][IHES-article] about the prize and my research.
+
 My work focuses on the mathematical structures and dualities arising in quantum field theory and string theory, and their interplay with areas of mathematics such as algebraic geometry, number theory, and homological algebra. In recent years, I have explored structural connections between resurgence, arithmetic, and quantum modularity and their applications to non-perturbative phenomena in quantum physics and quantum topology, resulting in the still-evolving research programme of modular resurgence.
 
 You can find my CV [here][CV] and a list of events I attended [here][activities].
-
-### Highlights
-
-- **October 2026:** I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences. Here is a [short article][IHES-article] about the prize and my research.
-- **August 2026:** A new research paper is available on arXiv at [https://arxiv.org/abs/2608.08902](https://arxiv.org/abs/2608.08902). Co-authored with Miranda Cheng, Ioana Coman, and Veronica Fantini.
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
