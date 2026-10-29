@@ -111,8 +111,8 @@ You can find my CV [here][CV] and a list of events I attended [here][activities]
 
 ### Upcoming Events
 
-- Jan 25-29, 2027: I will give a research talk at the conference on [Resurgence Theory in Mathematical Physics](https://tsimf.tsinghua.edu.cn/info/1630/1946.htm) at the Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China.
-- Oct 30, 2026: I will give a research talk at the annual workshop on [Cosmology and High Energy Physics](https://coshep11.sciencesconf.org) at the Laboratoire Charles Coulomb, Université de Montpellier, France.
+- *Jan 25-29, 2027:* I will give a research talk at the conference on [Resurgence Theory in Mathematical Physics](https://tsimf.tsinghua.edu.cn/info/1630/1946.htm) at the Tsinghua Sanya International Mathematics Forum, China.
+- *Oct 30, 2026:* I will give a research talk at the annual workshop on [Cosmology and High Energy Physics](https://coshep11.sciencesconf.org) at the Laboratoire Charles Coulomb, Université de Montpellier, France.
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
