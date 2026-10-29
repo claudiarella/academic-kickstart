@@ -96,8 +96,6 @@ user_groups:
 
 # I am interested in the many facets of mathematical and theoretical high-energy physics, particularly the mathematical structures underlying non-perturbative phenomena in quantum field theory and string theory. My work focuses on the non-perturbative aspects of topological string theory and complex Chern-Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are the number-theoretic properties of Calabi-Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
 
-### Highlights
-
 # - **October 2026:** I received the [L'Oréal-UNESCO For Women in Science Prize][FWIS] awarded by the Académie des Sciences. Here is a [short article][IHES-article] about the prize and my research.
 # - **August 2026:** A new research paper is available on arXiv at [https://arxiv.org/abs/2608.08902](https://arxiv.org/abs/2608.08902). Co-authored with Miranda Cheng, Ioana Coman, and Veronica Fantini.
 
