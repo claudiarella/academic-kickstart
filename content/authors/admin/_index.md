@@ -113,7 +113,7 @@ You can find my CV [here][CV] and a list of events I participated in [here][acti
 
 - Jul 19-23, 2027: I will give a series of lectures on *Asymptotic series and resurgence* at the **Amplitudes School 2027**, Johannes Gutenberg Universität Mainz, Germany.
 - Jan 25-29, 2027: I will give a research talk on *Strong-weak symmetries from resurgence* at the **Conference on Resurgence Theory in Mathematical Physics**, Tsinghua Sanya International Mathematics Forum, China.
-- Oct 30, 2026: I will give a review talk on *Modular resurgent structures* at the **11th Workshop on Cosmology and High Energy Physics XI**, Laboratoire Charles Coulomb, Université de Montpellier, France.
+- Oct 30, 2026: I will give a review talk on *Modular resurgent structures* at the **11th Workshop on Cosmology and High Energy Physics**, Laboratoire Charles Coulomb, Université de Montpellier, France.
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
