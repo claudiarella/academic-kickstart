@@ -106,6 +106,11 @@ My work focuses on the mathematical structures and dualities arising in quantum 
 
 You can find my CV [here][CV] and a list of events I attended [here][activities].
 
+### Highlights
+
+- **October 2026:** Awarded the L'Oréal–UNESCO For Women in Science Young Talent Award.
+- **August 2026:** New research paper available on arXiv at [https://arxiv.org/abs/2608.08902](https://arxiv.org/abs/2608.08902). Co-authored with Miranda Cheng, Ioana Coman, and Veronica Fantini.
+
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
 
