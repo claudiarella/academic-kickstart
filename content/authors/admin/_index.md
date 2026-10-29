@@ -107,7 +107,7 @@ In October 2026, I received the [L'Oréal-UNESCO For Women in Science Prize][FWI
 
 My work focuses on the mathematical structures and dualities arising in quantum field theory and string theory, and their interplay with areas of mathematics such as algebraic geometry, number theory, and homological algebra. In recent years, I have explored structural connections between resurgence, arithmetic, and quantum modularity and their applications to non-perturbative phenomena in quantum physics and quantum topology, resulting in the still-evolving research programme of modular resurgence.
 
-You can find my CV [here][CV] and a list of events I attended [here][activities].
+You can find my CV [here][CV] and a list of events I participated in [here][activities].
 
 ### Upcoming Events
 
