@@ -111,9 +111,9 @@ You can find my CV [here][CV] and a list of events I attended [here][activities]
 
 ### Upcoming Events
 
-- Jul 19-23, 2027: *I will give a series of lectures on Asymptotic Series and Resurgence at the Amplitudes School 2027, Johannes Gutenberg Universität Mainz, Germany.*
-- Jan 25-29, 2027: *I will give a research talk at the conference on [Resurgence Theory in Mathematical Physics](https://tsimf.tsinghua.edu.cn/info/1630/1946.htm), Tsinghua Sanya International Mathematics Forum, China.*
-- Oct 30, 2026: *I will give a research talk at the [Cosmology and High Energy Physics XI](https://coshep11.sciencesconf.org), Laboratoire Charles Coulomb, Université de Montpellier, France.*
+- Jul 19-23, 2027: I will give a series of lectures on Asymptotic Series and Resurgence at the *Amplitudes School 2027*, Johannes Gutenberg Universität Mainz, Germany.
+- Jan 25-29, 2027: I will give a research talk at the conference on *[Resurgence Theory in Mathematical Physics](https://tsimf.tsinghua.edu.cn/info/1630/1946.htm)*, Tsinghua Sanya International Mathematics Forum, China.
+- Oct 30, 2026: I will give a research talk at the workshop *[Cosmology and High Energy Physics XI](https://coshep11.sciencesconf.org)*, Laboratoire Charles Coulomb, Université de Montpellier, France.
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
