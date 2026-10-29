@@ -109,6 +109,11 @@ My work focuses on the mathematical structures and dualities arising in quantum 
 
 You can find my CV [here][CV] and a list of events I attended [here][activities].
 
+### Upcoming Events
+
+- Dec 07, 2026: I will give a research talk at the conference on Resurgence Theory in Mathematical Physics at the Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China.
+- Oct 30, 2026: I will give a research talk at the annual workshop on [Cosmology and High Energy Physics](https://coshep11.sciencesconf.org) at the Laboratoire Charles Coulomb, Université de Montpellier, France.
+
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
 
