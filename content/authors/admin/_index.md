@@ -112,8 +112,9 @@ You can find my CV [here][CV] and a list of events I participated in [here][acti
 ### Upcoming Events
 
 - Jul 19-23, 2027: I will give a series of lectures on *Asymptotic series and resurgence* at the **Amplitudes School 2027**, Johannes Gutenberg Universität Mainz, Germany.
-- Jan 25-29, 2027: I will give a research talk on *Strong-weak symmetries from resurgence* at the **Conference on Resurgence Theory in Mathematical Physics**, Tsinghua Sanya International Mathematics Forum, China.
-- Oct 30, 2026: I will give a review talk on *Modular resurgent structures* at the **11th Workshop on Cosmology and High Energy Physics**, Laboratoire Charles Coulomb, Université de Montpellier, France.
+- Jan 25-29, 2027: I will give a talk at the **Conference on Resurgence Theory in Mathematical Physics**, Tsinghua Sanya International Mathematics Forum, China.
+- Dec 7, 2026: I am co-organising the one-day workshop [XMath Physics Day][XMPD] at the Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, France.
+- Nov 23, 2026: I will give a [seminar][semparis] at the Laboratoire de Physique Théorique et Hautes Energies (LPTHE), Sorbonne Université, France.
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
@@ -126,3 +127,6 @@ You can find my CV [here][CV] and a list of events I participated in [here][acti
 [Huawei]: https://www.ihes.fr/en/huawei-young-talents-program/
 [FWIS]: https://www.academie-sciences.fr/35-chercheuses-davenir-recompensees-par-le-20e-prix-loreal-unesco-pour-les-femmes-et-la-science
 [IHES-article]: https://www.ihes.fr/en/claudia-rella-laureate-2/
+
+[XMPD]: https://indico.math.cnrs.fr/event/17422/
+[semparis]: https://semparis.lpthe.jussieu.fr/public/list.pl?type=seminars&key=16730&language=1
