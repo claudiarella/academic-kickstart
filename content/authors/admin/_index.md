@@ -114,7 +114,7 @@ You can find my CV [here][CV] and a list of events I participated in [here][acti
 - Jul 19-23, 2027: I will give a series of lectures on *Asymptotic series and resurgence* at the **Amplitudes School 2027**, Johannes Gutenberg Universität Mainz, Germany.
 - Jan 25-29, 2027: I will give a talk at the **Conference on Resurgence Theory in Mathematical Physics**, Tsinghua Sanya International Mathematics Forum, China.
 - Dec 7, 2026: I am co-organising the one-day workshop [XMath Physics Day][XMPD] at the Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, France.
-- Nov 23, 2026: I will give a [seminar][semparis] at the Laboratoire de Physique Théorique et Hautes Energies (LPTHE), Sorbonne Université, France.
+- Nov 23, 2026: I will give a [seminar][semparis] at the Laboratoire de Physique Théorique et Hautes Energies, Sorbonne Université, France.
 
 [CV]: files/CV.pdf
 [activities]: files/CV_events.pdf
