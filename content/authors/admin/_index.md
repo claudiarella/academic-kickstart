@@ -112,7 +112,7 @@ You can find my CV [here][CV] and a list of events I participated in [here][acti
 ### Upcoming Events
 
 - Jul 19-23, 2027: I will give a series of lectures on *Asymptotic series and resurgence* at the **Amplitudes School 2027**, Johannes Gutenberg Universität Mainz, Germany.
-- Feb 10, 2026: I will give a [SEED seminar][semparis] at the Laboratoire de Physique Théorique et Hautes Energies, Sorbonne Université, France.
+- Feb 10, 2026: I will give a [SEED seminar][seed] at the Laboratoire de Physique Théorique et Hautes Energies, Sorbonne Université, France.
 - Jan 25-29, 2027: I will give a talk at the **Conference on Resurgence Theory in Mathematical Physics**, Tsinghua Sanya International Mathematics Forum, China.
 - Dec 7, 2026: I am co-organising the one-day workshop [XMath Physics Day][XMPD] at the Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, France.
 
@@ -129,4 +129,4 @@ You can find my CV [here][CV] and a list of events I participated in [here][acti
 [IHES-article]: https://www.ihes.fr/en/claudia-rella-laureate-2/
 
 [XMPD]: https://indico.math.cnrs.fr/event/17422/
-[semparis]: https://semparis.lpthe.jussieu.fr/public/list.pl?type=seminars&key=16730&language=1
+[seed]: https://seedseminar.pages.math.cnrs.fr
